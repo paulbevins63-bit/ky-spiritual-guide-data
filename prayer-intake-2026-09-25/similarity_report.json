@@ -1,0 +1,786 @@
+[
+ {
+  "item": 1,
+  "heading": "Prayer for Ordering One's Day and Mind (1890)",
+  "section": "Saint Thomas Aquinas",
+  "words": 88,
+  "best_catalog_match": {
+   "ratio": 0.377,
+   "raw": 0.377,
+   "arch": 0.367,
+   "jaccard": 0.342,
+   "id": "man_of_god_0020",
+   "title": "O Merciful God, Grant That I May Eagerly Desire",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 2,
+  "heading": "Prayer to Order Life Wisely and Calm the Intellect (1885):",
+  "section": "Saint Thomas Aquinas",
+  "words": 95,
+  "best_catalog_match": {
+   "ratio": 0.371,
+   "raw": 0.367,
+   "arch": 0.371,
+   "jaccard": 0.289,
+   "id": "historic_step9_019",
+   "title": "For Keeping Word to Those Wronged",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 3,
+  "heading": "Morning Prayer for Clarity and Direction (Modern English)",
+  "section": "Saint Thomas Aquinas",
+  "words": 87,
+  "best_catalog_match": {
+   "ratio": 0.218,
+   "raw": 0.115,
+   "arch": 0.218,
+   "jaccard": 0.214,
+   "id": "tileston_prayers_0073",
+   "title": "Lord, We Go to Our Daily Work",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 4,
+  "heading": "Prayer: Let Me Desire What Pleases You (Modern English)",
+  "section": "Saint Thomas Aquinas",
+  "words": 90,
+  "best_catalog_match": {
+   "ratio": 0.268,
+   "raw": 0.244,
+   "arch": 0.268,
+   "jaccard": 0.233,
+   "id": "historic_step9_019",
+   "title": "For Keeping Word to Those Wronged",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 5,
+  "heading": "Prayer: Let Me Be Moved Only by You (Modern English)",
+  "section": "Saint Thomas Aquinas",
+  "words": 36,
+  "best_catalog_match": {
+   "ratio": 0.254,
+   "raw": 0.219,
+   "arch": 0.254,
+   "jaccard": 0.163,
+   "id": "courage_003",
+   "title": "Armenian Prayer for Divine Wisdom — Nerses Shnorhali",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 6,
+  "heading": "Prayer: God, Let me Do What Pleases You (Modern English)",
+  "section": "Saint Thomas Aquinas",
+  "words": 37,
+  "best_catalog_match": {
+   "ratio": 0.294,
+   "raw": 0.294,
+   "arch": 0.294,
+   "jaccard": 0.267,
+   "id": "kentucky_bootleggers_0126",
+   "title": "What I Tell You",
+   "field": "modern"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 7,
+  "heading": "Prayer: Quiet My Circling Mind (Modern English)",
+  "section": "Saint Thomas Aquinas",
+  "words": 54,
+  "best_catalog_match": {
+   "ratio": 0.228,
+   "raw": 0.228,
+   "arch": 0.228,
+   "jaccard": 0.237,
+   "id": "kentucky_bootleggers_0047",
+   "title": "Another Morning",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 8,
+  "heading": "Prayer: I Don”t Need To See Everything (Modern English)",
+  "section": "Saint Thomas Aquinas",
+  "words": 65,
+  "best_catalog_match": {
+   "ratio": 0.256,
+   "raw": 0.256,
+   "arch": 0.256,
+   "jaccard": 0.212,
+   "id": "historic_step11_012",
+   "title": "Andrew Murray - Thy Will Be Done in Me",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 9,
+  "heading": "Prayer: For Steady Hands and a Steady Heart (Modern English)",
+  "section": "Saint Thomas Aquinas",
+  "words": 59,
+  "best_catalog_match": {
+   "ratio": 0.222,
+   "raw": 0.222,
+   "arch": 0.222,
+   "jaccard": 0.255,
+   "id": "kentucky_bootleggers_0126",
+   "title": "What I Tell You",
+   "field": "modern"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 10,
+  "heading": "Title: Open My Mouth to Bless Your Name - Original English Translation (1914):",
+  "section": "Liturgical Pre-Office Devotion",
+  "words": 73,
+  "best_catalog_match": {
+   "ratio": 0.274,
+   "raw": 0.274,
+   "arch": 0.262,
+   "jaccard": 0.188,
+   "id": "old_catholic_prayerbook_1875_0001",
+   "title": "A Blessing Over the Newly Married",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 11,
+  "heading": "_==Faithful modern: Prayer Before the Divine Office - Open My Mouth==_",
+  "section": "Liturgical Pre-Office Devotion",
+  "words": 55,
+  "best_catalog_match": {
+   "ratio": 0.308,
+   "raw": 0.172,
+   "arch": 0.308,
+   "jaccard": 0.185,
+   "id": "tileston_prayers_0344",
+   "title": "Be Present, O Lord, to Thy Faithful People",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 12,
+  "heading": "_==A Prayer to Pray and Do:==_",
+  "section": "Liturgical Pre-Office Devotion",
+  "words": 45,
+  "best_catalog_match": {
+   "ratio": 0.316,
+   "raw": 0.316,
+   "arch": 0.316,
+   "jaccard": 0.261,
+   "id": "kentucky_bootleggers_0126",
+   "title": "What I Tell You",
+   "field": "modern"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 13,
+  "heading": "Original English Translation of Prayer (1860)",
+  "section": "St. Teresa of Ávila",
+  "words": 64,
+  "best_catalog_match": {
+   "ratio": 0.387,
+   "raw": 0.344,
+   "arch": 0.387,
+   "jaccard": 0.297,
+   "id": "forgiving_others_044",
+   "title": "Let Nothing Disturb You",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 14,
+  "heading": "Prayer For Peace Tonight: You Alone Are Enough (2026 Modern English):",
+  "section": "St. Teresa of Ávila",
+  "words": 53,
+  "best_catalog_match": {
+   "ratio": 0.296,
+   "raw": 0.296,
+   "arch": 0.296,
+   "jaccard": 0.185,
+   "id": "kentucky_bootleggers_0015",
+   "title": "My Fortress",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 15,
+  "heading": "Prayer For Peace Tonight: Quiet My Mind Lord, You are Enough (2026 Modern English):",
+  "section": "St. Teresa of Ávila",
+  "words": 47,
+  "best_catalog_match": {
+   "ratio": 0.291,
+   "raw": 0.291,
+   "arch": 0.291,
+   "jaccard": 0.254,
+   "id": "builtin21_17",
+   "title": "The Covenant Prayer of the Morning (Kidan Ze-Nege)",
+   "field": "modern"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 16,
+  "heading": "Original: Morning Surrender of Mind and Will (English Translation 1914):",
+  "section": "St. Ignatius of Loyola",
+  "words": 65,
+  "best_catalog_match": {
+   "ratio": 0.934,
+   "raw": 0.928,
+   "arch": 0.934,
+   "jaccard": 0.881,
+   "id": "historic_step11_010",
+   "title": "Suscipe - Ignatius Loyola",
+   "field": "full_text"
+  },
+  "verdict": "EXCLUDED >=90%"
+ },
+ {
+  "item": 17,
+  "heading": "Prayer: Take All That I Am - A Suscipe for Rumination (2026 Modern English):",
+  "section": "St. Ignatius of Loyola",
+  "words": 64,
+  "best_catalog_match": {
+   "ratio": 0.446,
+   "raw": 0.446,
+   "arch": 0.446,
+   "jaccard": 0.356,
+   "id": "builtin21_09",
+   "title": "The Suscipe (Receive)",
+   "field": "original"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 18,
+  "heading": "Prayer: I Surrender Worries to You (2026 Modern English):",
+  "section": "St. Ignatius of Loyola",
+  "words": 81,
+  "best_catalog_match": {
+   "ratio": 0.569,
+   "raw": 0.569,
+   "arch": 0.569,
+   "jaccard": 0.468,
+   "id": "builtin21_09",
+   "title": "The Suscipe (Receive)",
+   "field": "original"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 19,
+  "heading": "Fear Not What May Happen Tomorrow - St. Francis de Sales (Original English - 1900)",
+  "section": "St. Francis de Sales",
+  "words": 58,
+  "best_catalog_match": {
+   "ratio": 0.212,
+   "raw": 0.211,
+   "arch": 0.212,
+   "jaccard": 0.257,
+   "id": "historic_step3_027",
+   "title": "Collect for Trustful Surrender",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 20,
+  "heading": "I Will Not Fear Tomorrow - After St. Francis de Sales (Modern English)",
+  "section": "St. Francis de Sales",
+  "words": 90,
+  "best_catalog_match": {
+   "ratio": 0.238,
+   "raw": 0.142,
+   "arch": 0.238,
+   "jaccard": 0.15,
+   "id": "east_syrian_1894_0130",
+   "title": "Lakhumara (morning form)",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 21,
+  "heading": "Kicking the Panic Loop To The Curb (Modern English)",
+  "section": "St. Francis de Sales",
+  "words": 84,
+  "best_catalog_match": {
+   "ratio": 0.217,
+   "raw": 0.174,
+   "arch": 0.217,
+   "jaccard": 0.132,
+   "id": "tileston_prayers_0273",
+   "title": "We Give Thee Thanks, Holy Lord, Father Almighty, Everlasting God",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 22,
+  "heading": "Morning Prayer for Equanimity and Trust (English Translation - 1888):",
+  "section": "St. Francis de Sales",
+  "words": 64,
+  "best_catalog_match": {
+   "ratio": 0.269,
+   "raw": 0.269,
+   "arch": 0.256,
+   "jaccard": 0.296,
+   "id": "historic_step3_044",
+   "title": "Daily Consecration to Providence",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 23,
+  "heading": "Prayer: Guide Me Now to the Next Right Step (Modern English - 2026):",
+  "section": "St. Francis de Sales",
+  "words": 72,
+  "best_catalog_match": {
+   "ratio": 0.296,
+   "raw": 0.296,
+   "arch": 0.296,
+   "jaccard": 0.244,
+   "id": "builtin21_03",
+   "title": "Prayer for Guidance and Discernment",
+   "field": "modern"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 24,
+  "heading": "For Clutter and Spin (Modern English - 2026):",
+  "section": "St. Francis de Sales",
+  "words": 57,
+  "best_catalog_match": {
+   "ratio": 0.233,
+   "raw": 0.212,
+   "arch": 0.233,
+   "jaccard": 0.135,
+   "id": "historic_step6_026",
+   "title": "Prayer of Repentant Willingness",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 25,
+  "heading": "Prime Collect - At the Beginning of This Day (English Translation of Prayer - 1879)",
+  "section": "Roman Breviary (Prime / Dawn Office)",
+  "words": 68,
+  "best_catalog_match": {
+   "ratio": 0.662,
+   "raw": 0.662,
+   "arch": 0.657,
+   "jaccard": 0.677,
+   "id": "tileston_prayers_0408",
+   "title": "O Lord, Our Heavenly Father, Who Hast Safely Brought Us to the Beginning of This Day",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 26,
+  "heading": "Be My Strong Shield For Today (Modern English)",
+  "section": "Roman Breviary (Prime / Dawn Office)",
+  "words": 71,
+  "best_catalog_match": {
+   "ratio": 0.29,
+   "raw": 0.259,
+   "arch": 0.29,
+   "jaccard": 0.186,
+   "id": "tileston_prayers_0408",
+   "title": "O Lord, Our Heavenly Father, Who Hast Safely Brought Us to the Beginning of This Day",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 27,
+  "heading": "Starting This Day (Modern English -2026)",
+  "section": "Roman Breviary (Prime / Dawn Office)",
+  "words": 42,
+  "best_catalog_match": {
+   "ratio": 0.329,
+   "raw": 0.329,
+   "arch": 0.329,
+   "jaccard": 0.304,
+   "id": "kentucky_bootleggers_0014",
+   "title": "Hide Me, Lord",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 28,
+  "heading": "O Splendor of God's Glory Bright - Morning Light (1852/John Newman Tr.)",
+  "section": "Morning Hymn for Awakening and Action",
+  "words": 50,
+  "best_catalog_match": {
+   "ratio": 0.212,
+   "raw": 0.212,
+   "arch": 0.2,
+   "jaccard": 0.167,
+   "id": "east_syrian_1894_0116",
+   "title": "Prayer of the third Night Anthem",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 29,
+  "heading": "Wake Me Up From Sleep (Modern English)",
+  "section": "Morning Hymn for Awakening and Action",
+  "words": 40,
+  "best_catalog_match": {
+   "ratio": 0.222,
+   "raw": 0.222,
+   "arch": 0.222,
+   "jaccard": 0.141,
+   "id": "builtin21_10",
+   "title": "Prayer Toward the Unknown",
+   "field": "modern"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 30,
+  "heading": "Wake Me Now To Walk in Your Light (Modern English)",
+  "section": "Morning Hymn for Awakening and Action",
+  "words": 57,
+  "best_catalog_match": {
+   "ratio": 0.295,
+   "raw": 0.225,
+   "arch": 0.295,
+   "jaccard": 0.213,
+   "id": "fellowship_prayers_0100",
+   "title": "In This Hour of This Day",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 31,
+  "heading": "Deliver Me From Idle Thoughts (English Translation - 1884)",
+  "section": "Saint Anselm of Canterbury",
+  "words": 42,
+  "best_catalog_match": {
+   "ratio": 0.333,
+   "raw": 0.188,
+   "arch": 0.333,
+   "jaccard": 0.172,
+   "id": "blessed_sacrament_prayer_book_0007",
+   "title": "Prayer for Benediction",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 32,
+  "heading": "Deliver Me From Thoughts That Go Nowhere (Modern English)",
+  "section": "Saint Anselm of Canterbury",
+  "words": 59,
+  "best_catalog_match": {
+   "ratio": 0.28,
+   "raw": 0.224,
+   "arch": 0.28,
+   "jaccard": 0.229,
+   "id": "tileston_prayers_0141",
+   "title": "Most Merciful God, the Foundation of Our Hope",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 33,
+  "heading": "Rescue Me From Empty Goals (Modern English)",
+  "section": "Saint Anselm of Canterbury",
+  "words": 50,
+  "best_catalog_match": {
+   "ratio": 0.306,
+   "raw": 0.222,
+   "arch": 0.306,
+   "jaccard": 0.145,
+   "id": "bcp_1928_family_0004",
+   "title": "Sunday Morning",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 34,
+  "heading": "Guide My Hands, Govern My Tongue, and Rule My Heart (Original English - Modernized 1895)",
+  "section": "Saint Robert Southwell",
+  "words": 55,
+  "best_catalog_match": {
+   "ratio": 0.304,
+   "raw": 0.228,
+   "arch": 0.304,
+   "jaccard": 0.212,
+   "id": "fellowship_prayers_0131",
+   "title": "Father of All, God, All We Have Is of Thee",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 35,
+  "heading": "Let's Get To Work (Modern English)",
+  "section": "Saint Robert Southwell",
+  "words": 53,
+  "best_catalog_match": {
+   "ratio": 0.235,
+   "raw": 0.194,
+   "arch": 0.235,
+   "jaccard": 0.156,
+   "id": "tileston_prayers_0233",
+   "title": "O Lord, Who Orderest All Things for Us in Infinite Wisdom and Love",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 36,
+  "heading": "I Give You This Day (Modern English)",
+  "section": "Saint Robert Southwell",
+  "words": 50,
+  "best_catalog_match": {
+   "ratio": 0.286,
+   "raw": 0.25,
+   "arch": 0.286,
+   "jaccard": 0.222,
+   "id": "historic_1900_0005",
+   "title": "Morning Prayer, On Waking",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 37,
+  "heading": "Support Us, O Lord, All the Day Long (Original English - 19th Century)",
+  "section": "Saint John Henry Newman",
+  "words": 61,
+  "best_catalog_match": {
+   "ratio": 0.85,
+   "raw": 0.791,
+   "arch": 0.85,
+   "jaccard": 0.722,
+   "id": "historic_step12_025",
+   "title": "For Strength to Serve Others",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 38,
+  "heading": "Until My Work Is Done (Original English - 19th Century)",
+  "section": "Saint John Henry Newman",
+  "words": 58,
+  "best_catalog_match": {
+   "ratio": 0.624,
+   "raw": 0.556,
+   "arch": 0.624,
+   "jaccard": 0.462,
+   "id": "historic_step12_025",
+   "title": "For Strength to Serve Others",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 39,
+  "heading": "Stand By Me, Lord - Evening Rest (Modern English)",
+  "section": "Saint John Henry Newman",
+  "words": 45,
+  "best_catalog_match": {
+   "ratio": 0.339,
+   "raw": 0.319,
+   "arch": 0.339,
+   "jaccard": 0.257,
+   "id": "historic_step12_025",
+   "title": "For Strength to Serve Others",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 40,
+  "heading": "Stir Up Our Hearts - For Eagerness in Good Work (Original English - 1890)",
+  "section": "Saint Bernard of Clairvaux",
+  "words": 44,
+  "best_catalog_match": {
+   "ratio": 0.554,
+   "raw": 0.518,
+   "arch": 0.554,
+   "jaccard": 0.393,
+   "id": "fellowship_prayers_0118",
+   "title": "Stir Up, We Beseech Thee, O Lord, Our Hearts",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 41,
+  "heading": "Give Me Eagerness Today (Modern English)",
+  "section": "Saint Bernard of Clairvaux",
+  "words": 40,
+  "best_catalog_match": {
+   "ratio": 0.24,
+   "raw": 0.211,
+   "arch": 0.24,
+   "jaccard": 0.14,
+   "id": "tileston_prayers_0071",
+   "title": "O Lord, I Pray That Thou Wouldest Give Me Grace",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 42,
+  "heading": "Let's Make Today Count (Modern English)",
+  "section": "Saint Bernard of Clairvaux",
+  "words": 47,
+  "best_catalog_match": {
+   "ratio": 0.229,
+   "raw": 0.169,
+   "arch": 0.229,
+   "jaccard": 0.125,
+   "id": "tileston_prayers_0125",
+   "title": "O Lord, Make Us to Love Thee, and Each Other in Thee",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 43,
+  "heading": "Enkindle Our Hearts With Your True Light (English Translation - 1911 / Marcus Simaika Pasha)",
+  "section": "Coptic Orthodox",
+  "words": 39,
+  "best_catalog_match": {
+   "ratio": 0.368,
+   "raw": 0.359,
+   "arch": 0.368,
+   "jaccard": 0.296,
+   "id": "baptist_manual_0036",
+   "title": "Prayer for Revival - Variation 2",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 44,
+  "heading": "Enkindle Our Hearts With Your True Light (English Translation - 1911 / Marcus Simaika Pasha)",
+  "section": "Coptic Orthodox",
+  "words": 37,
+  "best_catalog_match": {
+   "ratio": 0.31,
+   "raw": 0.278,
+   "arch": 0.31,
+   "jaccard": 0.176,
+   "id": "tileston_prayers_0308",
+   "title": "O God of Strength, Passing All Understanding",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 45,
+  "heading": "Light Up My Heart (Modern English)",
+  "section": "Coptic Orthodox",
+  "words": 30,
+  "best_catalog_match": {
+   "ratio": 0.302,
+   "raw": 0.23,
+   "arch": 0.302,
+   "jaccard": 0.224,
+   "id": "historic_step11_024",
+   "title": "May It Be Thy Will",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 46,
+  "heading": "The One True Light (Modern English)",
+  "section": "Coptic Orthodox",
+  "words": 37,
+  "best_catalog_match": {
+   "ratio": 0.283,
+   "raw": 0.217,
+   "arch": 0.283,
+   "jaccard": 0.157,
+   "id": "historic_step2_036",
+   "title": "Collect for Hope and Expectation",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 47,
+  "heading": "Jesus Son, Direct My Footsteps Into Good Works (Original English - 1901 / J. Issaverdens)",
+  "section": "Armenian Apostolic Church",
+  "words": 40,
+  "best_catalog_match": {
+   "ratio": 0.282,
+   "raw": 0.282,
+   "arch": 0.265,
+   "jaccard": 0.197,
+   "id": "isaac_nineveh_1923_0002",
+   "title": "Thanksgiving in poverty",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 48,
+  "heading": "Make Me Worthy To Do Your Will Today (Modern English)",
+  "section": "Armenian Apostolic Church",
+  "words": 47,
+  "best_catalog_match": {
+   "ratio": 0.265,
+   "raw": 0.243,
+   "arch": 0.265,
+   "jaccard": 0.243,
+   "id": "builtin21_17",
+   "title": "The Covenant Prayer of the Morning (Kidan Ze-Nege)",
+   "field": "original"
+  },
+  "verdict": "passes"
+ },
+ {
+  "item": 49,
+  "heading": "From Morning til Night (Modern English)",
+  "section": "Armenian Apostolic Church",
+  "words": 42,
+  "best_catalog_match": {
+   "ratio": 0.247,
+   "raw": 0.162,
+   "arch": 0.247,
+   "jaccard": 0.127,
+   "id": "forgiveness_being_forgiven_012",
+   "title": "Prayer Before Communion — St. John Chrysostom (c.400)",
+   "field": "full_text"
+  },
+  "verdict": "passes"
+ }
+]

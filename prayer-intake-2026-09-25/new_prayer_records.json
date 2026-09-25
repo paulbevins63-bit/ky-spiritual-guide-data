@@ -1,0 +1,1560 @@
+{
+ "_about": "Intake packet built 2026-09-25 from 20260923224645_NEW_Prayers_to_Stop_Rumination.md against prayers_catalog_v1.json (catalog_version 200, 2,326 prayers). Records are in the catalog's field order and schema. ids are placeholders (NEW_*): assign real ids with the desktop tooling. `_intake` is working metadata for the ingest and should be stripped or moved to `note` on insert. Two records are MERGE PENDING and need Paul's approval of the merged text; the Suscipe record has no Original tab (see its _intake.why).",
+ "catalog_checked": "prayers_catalog_v1.json catalog_version 200",
+ "count": 29,
+ "records": [
+  {
+   "_intake": {
+    "key": "aquinas_clarity_direction",
+    "source_items": [
+     3
+    ],
+    "original_from": "aq1890",
+    "provenance": "confirmed prayer; translation citation plausible, unverified",
+    "status": "ready",
+    "text_fixes": [
+     "\"Keep me steady Lord.\" -> \"Keep me steady, Lord.\"",
+     "Item 6 (\"God, Let Me Do What Pleases You\") folded in as short_text: it is a cut-down of this text with the same lines and intent (56% word overlap), not a separate prayer."
+    ],
+    "title_note": "Kept. Dropped the \"(Modern English)\" suffix, as on every record below.",
+    "why": "Full-length morning rendering; orders the day and the mind. Not tagged the-circling-mind: it asks for order, not for the loop to stop.",
+    "original_title_in_file": "Morning Prayer for Clarity and Direction (Modern English)"
+   },
+   "id": "NEW_aquinas_clarity_direction",
+   "title": "Morning Prayer for Clarity and Direction",
+   "full_text": "Heavenly Father,\nPut Your desires in my heart.\nHelp me think clearly, see truthfully, and do what pleases You.\nPut my thoughts, life, and schedule in proper order for Your glory.\nLord, make it clear to me what You want today,\nAnd give me the guidance and strength to do it well.\n\nKeep me steady, Lord.\nNot shaken by hard times, and not inflated by good ones.\nLet me be moved only by what draws me to You\nor warns me I'm drifting away from You. Amen.",
+   "short_text": "God, put Your desires in my heart. Help me think clearly, see truthfully, and do what pleases You... Let me only be moved by what draws me to You or warns me I'm drifting from You. Amen",
+   "modern": "Heavenly Father,\nPut Your desires in my heart.\nHelp me think clearly, see truthfully, and do what pleases You.\nPut my thoughts, life, and schedule in proper order for Your glory.\nLord, make it clear to me what You want today,\nAnd give me the guidance and strength to do it well.\n\nKeep me steady, Lord.\nNot shaken by hard times, and not inflated by good ones.\nLet me be moved only by what draws me to You\nor warns me I'm drifting away from You. Amen.",
+   "original": "O merciful God, grant that I may desire ardently, examine prudently, acknowledge truthfully, and fulfill perfectly all things that are pleasing to Thee. Order my condition for the praise of Thy name; grant me to know what Thou requirest of me, and grant me to accomplish it as is fitting and expedient for my soul. Let me not be troubled in adversity, nor puffed up in prosperity; let nothing cause me to rejoice or grieve, save that which leadeth unto Thee, or draweth me away from Thee. Amen.",
+   "original_title": "Concede mihi, misericors Deus (Prayer for Ordering One's Life)",
+   "tradition": "Catholic — Kentucky Bootleggers Adaptation (2026) of St. Thomas Aquinas",
+   "collection": "Kentucky Bootleggers Originals",
+   "word_count": 87,
+   "note": null,
+   "categories_hint": [],
+   "categories_15_primary_hint": null,
+   "faiths": [
+    "All",
+    "Catholic",
+    "Anglican",
+    "Recovery"
+   ],
+   "step_tag": null,
+   "source_corpus": "circling_mind_2026",
+   "categories": [
+    "morning",
+    "guidance-and-decisions",
+    "wisdom-and-clarity",
+    "peace"
+   ],
+   "categorization_flagged": false,
+   "categorization_flag_reason": null,
+   "author": "St. Thomas Aquinas",
+   "attribution": "After St. Thomas Aquinas (1225–1274), Concede mihi, misericors Deus. Adapted by Kentucky Bootleggers, 2026.",
+   "original_attribution": "Attributed to St. Thomas Aquinas (1225–1274). English translation as printed in The Roman Missal Adapted for the Laity (New York, 1890). Public domain.",
+   "footnote": null,
+   "original_footnote": null,
+   "voice": "i",
+   "see_also": null
+  },
+  {
+   "_intake": {
+    "key": "aquinas_desire_what_pleases",
+    "source_items": [
+     4
+    ],
+    "original_from": "aq1885",
+    "provenance": "confirmed prayer; translation citation plausible, unverified",
+    "status": "ready",
+    "text_fixes": [
+     "Curly-quote typo: Don”t -> Don't"
+    ],
+    "title_note": "Kept; dropped the \"Prayer:\" prefix (catalog titles do not carry it).",
+    "why": "The formal register; follows the 1885 wording line by line. Paired with the 1885 Original tab because it derives from it.",
+    "original_title_in_file": "Prayer: Let Me Desire What Pleases You (Modern English)"
+   },
+   "id": "NEW_aquinas_desire_what_pleases",
+   "title": "Let Me Desire What Pleases You",
+   "full_text": "Grant me, merciful God, the desire to eagerly do what pleases You,\nTo examine wisely, to acknowledge truthfully, and to accomplish perfectly,\nfor the praise and glory of Your name.\n\nOrder my life, Lord God! Show me what You want me to do.\nHelp me do it as I should, in a way that is fitting and good for my soul.\n\nDon't let me get proud in good times, nor disheartened in bad ones.\nLet me be happy only doing Your will, and be dispirited only when separated from You.",
+   "short_text": null,
+   "modern": "Grant me, merciful God, the desire to eagerly do what pleases You,\nTo examine wisely, to acknowledge truthfully, and to accomplish perfectly,\nfor the praise and glory of Your name.\n\nOrder my life, Lord God! Show me what You want me to do.\nHelp me do it as I should, in a way that is fitting and good for my soul.\n\nDon't let me get proud in good times, nor disheartened in bad ones.\nLet me be happy only doing Your will, and be dispirited only when separated from You.",
+   "original": "Grant me, O merciful God, ardently to desire, prudently to examine, truthfully to acknowledge, and perfectly to accomplish what is pleasing unto Thee, for the praise and glory of Thy name. Order my state, O my God, and what Thou requirest me to do, grant me to know; and give me to accomplish it as it is fitting and profitable to my soul. Let not prosperity lift me up, nor adversity cast me down; let me rejoice in nothing save what leads unto Thee, and grieve for nothing save what turns me away from Thee.",
+   "original_title": "Concede mihi, misericors Deus (Prayer to Order Life Wisely)",
+   "tradition": "Catholic — Kentucky Bootleggers Adaptation (2026) of St. Thomas Aquinas",
+   "collection": "Kentucky Bootleggers Originals",
+   "word_count": 90,
+   "note": null,
+   "categories_hint": [],
+   "categories_15_primary_hint": null,
+   "faiths": [
+    "All",
+    "Catholic",
+    "Anglican",
+    "Recovery"
+   ],
+   "step_tag": null,
+   "source_corpus": "circling_mind_2026",
+   "categories": [
+    "guidance-and-decisions",
+    "wisdom-and-clarity",
+    "dedication-and-service",
+    "peace"
+   ],
+   "categorization_flagged": false,
+   "categorization_flag_reason": null,
+   "author": "St. Thomas Aquinas",
+   "attribution": "After St. Thomas Aquinas (1225–1274), Concede mihi, misericors Deus. Adapted by Kentucky Bootleggers, 2026.",
+   "original_attribution": "Attributed to St. Thomas Aquinas (1225–1274). English translation as printed in The Key of Heaven (Burns & Oates, London, 1885). Public domain.",
+   "footnote": null,
+   "original_footnote": null,
+   "voice": "i",
+   "see_also": null
+  },
+  {
+   "_intake": {
+    "key": "aquinas_moved_only_by_you",
+    "source_items": [
+     5
+    ],
+    "original_from": "aq1890",
+    "provenance": "confirmed prayer; translation citation plausible, unverified",
+    "status": "ready",
+    "text_fixes": [],
+    "title_note": "Kept.",
+    "why": "36 words; the whole prayer compressed to one breath. Different verbiage from every other Aquinas rendering, so it stays.",
+    "original_title_in_file": "Prayer: Let Me Be Moved Only by You (Modern English)"
+   },
+   "id": "NEW_aquinas_moved_only_by_you",
+   "title": "Let Me Be Moved Only by You",
+   "full_text": "Loving Father, teach me to love what You love, know what You want, and do it well. Keep me steady in hardship and humble in success, moved only by what brings me closer to You. Amen.",
+   "short_text": null,
+   "modern": "Loving Father, teach me to love what You love, know what You want, and do it well. Keep me steady in hardship and humble in success, moved only by what brings me closer to You. Amen.",
+   "original": "O merciful God, grant that I may desire ardently, examine prudently, acknowledge truthfully, and fulfill perfectly all things that are pleasing to Thee. Order my condition for the praise of Thy name; grant me to know what Thou requirest of me, and grant me to accomplish it as is fitting and expedient for my soul. Let me not be troubled in adversity, nor puffed up in prosperity; let nothing cause me to rejoice or grieve, save that which leadeth unto Thee, or draweth me away from Thee. Amen.",
+   "original_title": "Concede mihi, misericors Deus (Prayer for Ordering One's Life)",
+   "tradition": "Catholic — Kentucky Bootleggers Adaptation (2026) of St. Thomas Aquinas",
+   "collection": "Kentucky Bootleggers Originals",
+   "word_count": 36,
+   "note": null,
+   "categories_hint": [],
+   "categories_15_primary_hint": null,
+   "faiths": [
+    "All",
+    "Catholic",
+    "Anglican",
+    "Recovery"
+   ],
+   "step_tag": null,
+   "source_corpus": "circling_mind_2026",
+   "categories": [
+    "guidance-and-decisions",
+    "peace",
+    "humility"
+   ],
+   "categorization_flagged": false,
+   "categorization_flag_reason": null,
+   "author": "St. Thomas Aquinas",
+   "attribution": "After St. Thomas Aquinas (1225–1274), Concede mihi, misericors Deus. Adapted by Kentucky Bootleggers, 2026.",
+   "original_attribution": "Attributed to St. Thomas Aquinas (1225–1274). English translation as printed in The Roman Missal Adapted for the Laity (New York, 1890). Public domain.",
+   "footnote": null,
+   "original_footnote": null,
+   "voice": "i",
+   "see_also": null
+  },
+  {
+   "_intake": {
+    "key": "aquinas_quiet_my_circling_mind",
+    "source_items": [
+     7
+    ],
+    "original_from": "aq1890",
+    "provenance": "confirmed prayer; translation citation plausible, unverified",
+    "status": "ready",
+    "text_fixes": [],
+    "title_note": "Kept. This is the shelf-defining title of the batch.",
+    "why": "The rumination rendering: names the replay, asks for the present, the order, the next thing. Step 11 eligible (conscious contact, guidance).",
+    "original_title_in_file": "Prayer: Quiet My Circling Mind (Modern English)"
+   },
+   "id": "NEW_aquinas_quiet_my_circling_mind",
+   "title": "Quiet My Circling Mind",
+   "full_text": "Gracious God, quiet my circling mind.\nI keep replaying the same thoughts and getting nowhere.\nBring my thinking back into the present,\nPut my day before me in clear, simple order.\nShow me the next right thing You have for me,\nAnd settle me enough, Lord, to do it. Amen.",
+   "short_text": null,
+   "modern": "Gracious God, quiet my circling mind.\nI keep replaying the same thoughts and getting nowhere.\nBring my thinking back into the present,\nPut my day before me in clear, simple order.\nShow me the next right thing You have for me,\nAnd settle me enough, Lord, to do it. Amen.",
+   "original": "O merciful God, grant that I may desire ardently, examine prudently, acknowledge truthfully, and fulfill perfectly all things that are pleasing to Thee. Order my condition for the praise of Thy name; grant me to know what Thou requirest of me, and grant me to accomplish it as is fitting and expedient for my soul. Let me not be troubled in adversity, nor puffed up in prosperity; let nothing cause me to rejoice or grieve, save that which leadeth unto Thee, or draweth me away from Thee. Amen.",
+   "original_title": "Concede mihi, misericors Deus (Prayer for Ordering One's Life)",
+   "tradition": "Catholic — Kentucky Bootleggers Adaptation (2026) of St. Thomas Aquinas",
+   "collection": "Kentucky Bootleggers Originals",
+   "word_count": 50,
+   "note": null,
+   "categories_hint": [],
+   "categories_15_primary_hint": null,
+   "faiths": [
+    "All",
+    "Catholic",
+    "Anglican",
+    "Recovery"
+   ],
+   "step_tag": "step-11",
+   "source_corpus": "circling_mind_2026",
+   "categories": [
+    "the-circling-mind",
+    "presence",
+    "guidance-and-decisions",
+    "peace"
+   ],
+   "categorization_flagged": false,
+   "categorization_flag_reason": null,
+   "author": "St. Thomas Aquinas",
+   "attribution": "After St. Thomas Aquinas (1225–1274), Concede mihi, misericors Deus. Adapted by Kentucky Bootleggers, 2026.",
+   "original_attribution": "Attributed to St. Thomas Aquinas (1225–1274). English translation as printed in The Roman Missal Adapted for the Laity (New York, 1890). Public domain.",
+   "footnote": null,
+   "original_footnote": null,
+   "voice": "i",
+   "see_also": null
+  },
+  {
+   "_intake": {
+    "key": "aquinas_i_dont_need_to_see_everything",
+    "source_items": [
+     8
+    ],
+    "original_from": "aq1890",
+    "provenance": "confirmed prayer; translation citation plausible, unverified",
+    "status": "ready",
+    "text_fixes": [
+     "Curly-quote typo: don”t -> don't (text and title)"
+    ],
+    "title_note": "Fixed the typo; otherwise kept.",
+    "why": "\"My mind wants to run ahead and around in circles\" is the loop; \"just show me what is mine to do\" is the way out. Surrender for \"The rest is up to You.\"",
+    "original_title_in_file": "Prayer: I Don”t Need To See Everything (Modern English)"
+   },
+   "id": "NEW_aquinas_i_dont_need_to_see_everything",
+   "title": "I Don't Need to See Everything",
+   "full_text": "Father, put my life in order to honor You.\nMy mind wants to run ahead and around in circles.\nMake the path plain.\nI don't need to see everything, God.\nJust show me what is mine to do and give me grace to do it.\nWith your help God, I will do the work You've set before me.\nThe rest is up to You. Amen.",
+   "short_text": null,
+   "modern": "Father, put my life in order to honor You.\nMy mind wants to run ahead and around in circles.\nMake the path plain.\nI don't need to see everything, God.\nJust show me what is mine to do and give me grace to do it.\nWith your help God, I will do the work You've set before me.\nThe rest is up to You. Amen.",
+   "original": "O merciful God, grant that I may desire ardently, examine prudently, acknowledge truthfully, and fulfill perfectly all things that are pleasing to Thee. Order my condition for the praise of Thy name; grant me to know what Thou requirest of me, and grant me to accomplish it as is fitting and expedient for my soul. Let me not be troubled in adversity, nor puffed up in prosperity; let nothing cause me to rejoice or grieve, save that which leadeth unto Thee, or draweth me away from Thee. Amen.",
+   "original_title": "Concede mihi, misericors Deus (Prayer for Ordering One's Life)",
+   "tradition": "Catholic — Kentucky Bootleggers Adaptation (2026) of St. Thomas Aquinas",
+   "collection": "Kentucky Bootleggers Originals",
+   "word_count": 65,
+   "note": null,
+   "categories_hint": [],
+   "categories_15_primary_hint": null,
+   "faiths": [
+    "All",
+    "Catholic",
+    "Anglican",
+    "Recovery"
+   ],
+   "step_tag": "step-11",
+   "source_corpus": "circling_mind_2026",
+   "categories": [
+    "the-circling-mind",
+    "guidance-and-decisions",
+    "trust-and-faith",
+    "surrender",
+    "being-useful"
+   ],
+   "categorization_flagged": false,
+   "categorization_flag_reason": null,
+   "author": "St. Thomas Aquinas",
+   "attribution": "After St. Thomas Aquinas (1225–1274), Concede mihi, misericors Deus. Adapted by Kentucky Bootleggers, 2026.",
+   "original_attribution": "Attributed to St. Thomas Aquinas (1225–1274). English translation as printed in The Roman Missal Adapted for the Laity (New York, 1890). Public domain.",
+   "footnote": null,
+   "original_footnote": null,
+   "voice": "i",
+   "see_also": null
+  },
+  {
+   "_intake": {
+    "key": "aquinas_steady_hands",
+    "source_items": [
+     9
+    ],
+    "original_from": "aq1890",
+    "provenance": "confirmed prayer; translation citation plausible, unverified",
+    "status": "ready",
+    "text_fixes": [],
+    "title_note": "Dropped \"Prayer: For\"; kept the phrase.",
+    "why": "Renders the \"not troubled in adversity, not puffed up in prosperity\" half that the other moderns skip. \"Keep me busy at what You have given me\" is Being Useful.",
+    "original_title_in_file": "Prayer: For Steady Hands and a Steady Heart (Modern English)"
+   },
+   "id": "NEW_aquinas_steady_hands",
+   "title": "Steady Hands and a Steady Heart",
+   "full_text": "Lord, give me steady hands and a steady heart.\nDon't let me unravel when times get hard.\nDon't let me get distracted when times are good.\nDon't let my highs and lows decide the day.\nLet me draw closer to You, God.\nKeep me level, keep me close, and\nKeep me busy at what You have given me.\nAmen.",
+   "short_text": null,
+   "modern": "Lord, give me steady hands and a steady heart.\nDon't let me unravel when times get hard.\nDon't let me get distracted when times are good.\nDon't let my highs and lows decide the day.\nLet me draw closer to You, God.\nKeep me level, keep me close, and\nKeep me busy at what You have given me.\nAmen.",
+   "original": "O merciful God, grant that I may desire ardently, examine prudently, acknowledge truthfully, and fulfill perfectly all things that are pleasing to Thee. Order my condition for the praise of Thy name; grant me to know what Thou requirest of me, and grant me to accomplish it as is fitting and expedient for my soul. Let me not be troubled in adversity, nor puffed up in prosperity; let nothing cause me to rejoice or grieve, save that which leadeth unto Thee, or draweth me away from Thee. Amen.",
+   "original_title": "Concede mihi, misericors Deus (Prayer for Ordering One's Life)",
+   "tradition": "Catholic — Kentucky Bootleggers Adaptation (2026) of St. Thomas Aquinas",
+   "collection": "Kentucky Bootleggers Originals",
+   "word_count": 59,
+   "note": null,
+   "categories_hint": [],
+   "categories_15_primary_hint": null,
+   "faiths": [
+    "All",
+    "Catholic",
+    "Anglican",
+    "Recovery"
+   ],
+   "step_tag": null,
+   "source_corpus": "circling_mind_2026",
+   "categories": [
+    "peace",
+    "strength-and-endurance",
+    "being-useful"
+   ],
+   "categorization_flagged": false,
+   "categorization_flag_reason": null,
+   "author": "St. Thomas Aquinas",
+   "attribution": "After St. Thomas Aquinas (1225–1274), Concede mihi, misericors Deus. Adapted by Kentucky Bootleggers, 2026.",
+   "original_attribution": "Attributed to St. Thomas Aquinas (1225–1274). English translation as printed in The Roman Missal Adapted for the Laity (New York, 1890). Public domain.",
+   "footnote": null,
+   "original_footnote": null,
+   "voice": "i",
+   "see_also": null
+  },
+  {
+   "_intake": {
+    "key": "aperi_open_my_mouth",
+    "source_items": [
+     11
+    ],
+    "original_from": "aperi",
+    "provenance": "confirmed prayer (Roman Breviary); translation citation plausible",
+    "status": "ready",
+    "text_fixes": [
+     "Italic footer line moved out of the prayer text into the footnote field."
+    ],
+    "title_note": "Took the title from the file's item 10 heading; dropped \"Faithful modern:\" and the == markers.",
+    "why": "Faithful rendering; \"vain, evil, and wandering thoughts\" is the 1890s word for the loop. Liturgical Texts added because the Original tab is a rite-slot prayer (before the Office), per the 2026-08-21 ruling.",
+    "original_title_in_file": "_==Faithful modern: Prayer Before the Divine Office - Open My Mouth==_"
+   },
+   "id": "NEW_aperi_open_my_mouth",
+   "title": "Open My Mouth to Bless Your Name",
+   "full_text": "Lord, open my mouth to bless Your holy name.\nCleanse my heart of all vain, evil, and wandering thoughts.\nEnlighten my mind and set my heart on fire with love for You.\nLet me pray this worthily, attentively, and devoutly,\nand be heard in the presence of Your divine majesty.\nThrough Christ our Lord. Amen.",
+   "short_text": null,
+   "modern": "Lord, open my mouth to bless Your holy name.\nCleanse my heart of all vain, evil, and wandering thoughts.\nEnlighten my mind and set my heart on fire with love for You.\nLet me pray this worthily, attentively, and devoutly,\nand be heard in the presence of Your divine majesty.\nThrough Christ our Lord. Amen.",
+   "original": "Open, O Lord, my mouth to bless Thy holy Name; cleanse also my heart from all vain, evil, and wandering thoughts; enlighten my understanding, inflame my affections, that I may say this Office worthily, attentively, and devoutly, and may deserve to be heard in the presence of Thy divine Majesty. Through Christ our Lord. Amen.",
+   "original_title": "Aperi, Domine, os meum (Prayer Before the Divine Office)",
+   "tradition": "Catholic — Kentucky Bootleggers Adaptation (2026) of the Roman Breviary",
+   "collection": "Kentucky Bootleggers Originals",
+   "word_count": 55,
+   "note": null,
+   "categories_hint": [],
+   "categories_15_primary_hint": null,
+   "faiths": [
+    "All",
+    "Catholic",
+    "Recovery"
+   ],
+   "step_tag": null,
+   "source_corpus": "circling_mind_2026",
+   "categories": [
+    "the-circling-mind",
+    "wisdom-and-clarity",
+    "praise",
+    "liturgical-texts"
+   ],
+   "categorization_flagged": false,
+   "categorization_flag_reason": null,
+   "author": "Traditional — Roman Breviary",
+   "attribution": "After the Roman Breviary prayer before the Divine Office (Aperi, Domine). Adapted by Kentucky Bootleggers, 2026.",
+   "original_attribution": "Traditional — Roman Breviary, prayer before the Divine Office. English translation from The Roman Breviary in English (Desclée, Tournai, 1914). Public domain.",
+   "footnote": "Take one slow breath. Stand, and do the next right thing: take a walk, make the call, do one small chore, help someone nearby.",
+   "original_footnote": null,
+   "voice": "i",
+   "see_also": null
+  },
+  {
+   "_intake": {
+    "key": "aperi_pray_and_do",
+    "source_items": [
+     12
+    ],
+    "original_from": "aperi",
+    "provenance": "confirmed prayer (Roman Breviary); translation citation plausible",
+    "status": "ready",
+    "text_fixes": [
+     "Footer line moved to footnote. Item was labelled historic by its heading but is a free modern adaptation; treated as Modern."
+    ],
+    "title_note": "Kept.",
+    "why": "Free adaptation that turns the pre-Office prayer into a get-up prayer (\"Move my hands to do Your will\"). Different enough from item 11 (52% overlap) to stand on its own.",
+    "original_title_in_file": "_==A Prayer to Pray and Do:==_"
+   },
+   "id": "NEW_aperi_pray_and_do",
+   "title": "A Prayer to Pray and Do",
+   "full_text": "Lord, let me bless Your name.\nCleanse my heart and quiet my mind.\nSet my heart on fire, God.\nLet me pray to You fervently and devoutly.\nHear my cries to you Jesus!\nMove my hands to do Your will.\nThrough Christ our Lord. Amen.",
+   "short_text": null,
+   "modern": "Lord, let me bless Your name.\nCleanse my heart and quiet my mind.\nSet my heart on fire, God.\nLet me pray to You fervently and devoutly.\nHear my cries to you Jesus!\nMove my hands to do Your will.\nThrough Christ our Lord. Amen.",
+   "original": "Open, O Lord, my mouth to bless Thy holy Name; cleanse also my heart from all vain, evil, and wandering thoughts; enlighten my understanding, inflame my affections, that I may say this Office worthily, attentively, and devoutly, and may deserve to be heard in the presence of Thy divine Majesty. Through Christ our Lord. Amen.",
+   "original_title": "Aperi, Domine, os meum (Prayer Before the Divine Office)",
+   "tradition": "Catholic — Kentucky Bootleggers Adaptation (2026) of the Roman Breviary",
+   "collection": "Kentucky Bootleggers Originals",
+   "word_count": 45,
+   "note": null,
+   "categories_hint": [],
+   "categories_15_primary_hint": null,
+   "faiths": [
+    "All",
+    "Catholic",
+    "Recovery"
+   ],
+   "step_tag": null,
+   "source_corpus": "circling_mind_2026",
+   "categories": [
+    "the-circling-mind",
+    "praise",
+    "being-useful"
+   ],
+   "categorization_flagged": false,
+   "categorization_flag_reason": null,
+   "author": "Traditional — Roman Breviary",
+   "attribution": "After the Roman Breviary prayer before the Divine Office (Aperi, Domine). Adapted by Kentucky Bootleggers, 2026.",
+   "original_attribution": "Traditional — Roman Breviary, prayer before the Divine Office. English translation from The Roman Breviary in English (Desclée, Tournai, 1914). Public domain.",
+   "footnote": "Take one slow breath. Stand, and do the next right thing: take a walk, make the call, do one small chore, help someone nearby.",
+   "original_footnote": null,
+   "voice": "i",
+   "see_also": null
+  },
+  {
+   "_intake": {
+    "key": "teresa_you_alone_are_enough",
+    "source_items": [
+     14
+    ],
+    "original_from": "teresa",
+    "provenance": "confirmed prayer; Dalton 1860 plausible",
+    "status": "ready",
+    "text_fixes": [
+     "\"Lord, Don't\" -> \"Lord, don't\"",
+     "Footer line moved to footnote."
+    ],
+    "title_note": "Shortened from \"Prayer For Peace Tonight: You Alone Are Enough\"; the shelf and the Evening tag already say \"tonight\".",
+    "why": "Nada te turbe re-aimed at bedtime with a next-right-thing close. The two existing Teresa records are the bare text; this is an adaptation, so it is new content. see_also links both.",
+    "original_title_in_file": "Prayer For Peace Tonight: You Alone Are Enough (2026 Modern English):"
+   },
+   "id": "NEW_teresa_you_alone_are_enough",
+   "title": "You Alone Are Enough",
+   "full_text": "Lord, don't let anything disturb or frighten me tonight.\nWhile everything else changes, You are eternal.\nGive me the patience to bear my burdens.\nYou are all I need - You alone are enough.\nGive me the guidance to do the next right thing.\nI pray this through Jesus Christ our Lord. Amen.",
+   "short_text": null,
+   "modern": "Lord, don't let anything disturb or frighten me tonight.\nWhile everything else changes, You are eternal.\nGive me the patience to bear my burdens.\nYou are all I need - You alone are enough.\nGive me the guidance to do the next right thing.\nI pray this through Jesus Christ our Lord. Amen.",
+   "original": "Let nothing disturb thee, nothing affright thee; all things are passing; God never changeth; patient endurance attaineth to all things; who God possesseth in nothing is wanting: alone God sufficeth.",
+   "original_title": "Nada te turbe (Let Nothing Disturb Thee)",
+   "tradition": "Catholic — Kentucky Bootleggers Adaptation (2026) of St. Teresa of Ávila",
+   "collection": "Kentucky Bootleggers Originals",
+   "word_count": 53,
+   "note": null,
+   "categories_hint": [],
+   "categories_15_primary_hint": null,
+   "faiths": [
+    "All",
+    "Catholic",
+    "Anglican",
+    "Recovery"
+   ],
+   "step_tag": null,
+   "source_corpus": "circling_mind_2026",
+   "categories": [
+    "evening-and-night",
+    "peace",
+    "trust-and-faith",
+    "patience",
+    "fear-and-worry",
+    "guidance-and-decisions"
+   ],
+   "categorization_flagged": false,
+   "categorization_flag_reason": null,
+   "author": "St. Teresa of Ávila",
+   "attribution": "After St. Teresa of Ávila (1515–1582), Nada te turbe. Adapted by Kentucky Bootleggers, 2026.",
+   "original_attribution": "St. Teresa of Ávila (1515–1582). English translation by John Dalton (London, 1860). Public domain. An alternate 1904 translation by David Lewis exists; the two existing catalog records (courage_010, forgiving_others_044) carry modern-English wording.",
+   "footnote": "Take one slow breath. Stand, and do the next right thing.",
+   "original_footnote": null,
+   "voice": "i",
+   "see_also": [
+    "forgiving_others_044",
+    "courage_010"
+   ]
+  },
+  {
+   "_intake": {
+    "key": "teresa_when_my_thoughts_circle",
+    "source_items": [
+     15
+    ],
+    "original_from": "teresa",
+    "provenance": "confirmed prayer; Dalton 1860 plausible",
+    "status": "ready",
+    "text_fixes": [],
+    "title_note": "Renamed from \"Prayer For Peace Tonight: Quiet My Mind Lord, You are Enough\" (two colons deep, and \"Quiet My Mind\" collides with the Aquinas title). Runner-up: \"Quiet My Mind in This Moment\".",
+    "why": "The rumination rendering of Nada te turbe: \"when my thoughts circle and frighten me, steady me.\"",
+    "original_title_in_file": "Prayer For Peace Tonight: Quiet My Mind Lord, You are Enough (2026 Modern English):"
+   },
+   "id": "NEW_teresa_when_my_thoughts_circle",
+   "title": "When My Thoughts Circle",
+   "full_text": "Father, when my thoughts circle and frighten me, steady me.\nWhen all else passes around me, You do not change.\nQuiet my mind in this moment.\nGuide me to do Your will.\nYou are all I need, You alone are enough.\nThrough Christ Jesus, our Lord. Amen.",
+   "short_text": null,
+   "modern": "Father, when my thoughts circle and frighten me, steady me.\nWhen all else passes around me, You do not change.\nQuiet my mind in this moment.\nGuide me to do Your will.\nYou are all I need, You alone are enough.\nThrough Christ Jesus, our Lord. Amen.",
+   "original": "Let nothing disturb thee, nothing affright thee; all things are passing; God never changeth; patient endurance attaineth to all things; who God possesseth in nothing is wanting: alone God sufficeth.",
+   "original_title": "Nada te turbe (Let Nothing Disturb Thee)",
+   "tradition": "Catholic — Kentucky Bootleggers Adaptation (2026) of St. Teresa of Ávila",
+   "collection": "Kentucky Bootleggers Originals",
+   "word_count": 47,
+   "note": null,
+   "categories_hint": [],
+   "categories_15_primary_hint": null,
+   "faiths": [
+    "All",
+    "Catholic",
+    "Anglican",
+    "Recovery"
+   ],
+   "step_tag": null,
+   "source_corpus": "circling_mind_2026",
+   "categories": [
+    "the-circling-mind",
+    "evening-and-night",
+    "fear-and-worry",
+    "peace",
+    "trust-and-faith",
+    "guidance-and-decisions"
+   ],
+   "categorization_flagged": false,
+   "categorization_flag_reason": null,
+   "author": "St. Teresa of Ávila",
+   "attribution": "After St. Teresa of Ávila (1515–1582), Nada te turbe. Adapted by Kentucky Bootleggers, 2026.",
+   "original_attribution": "St. Teresa of Ávila (1515–1582). English translation by John Dalton (London, 1860). Public domain. An alternate 1904 translation by David Lewis exists; the two existing catalog records (courage_010, forgiving_others_044) carry modern-English wording.",
+   "footnote": null,
+   "original_footnote": null,
+   "voice": "i",
+   "see_also": [
+    "forgiving_others_044",
+    "courage_010"
+   ]
+  },
+  {
+   "_intake": {
+    "key": "suscipe_for_rumination",
+    "source_items": [
+     17,
+     18
+    ],
+    "original_from": "(excluded item 16)",
+    "provenance": "confirmed; Original tab excluded by the 90% rule",
+    "status": "MERGE PENDING — Paul to approve the merged text",
+    "text_fixes": [
+     "Items 17 and 18 are one prayer twice (62% overlap, same intent, same lines). Proposed merge keeps 18's line structure and closing, and takes 17's \"steady presence\". Both source texts are printed in the log for you to redo the merge your way."
+    ],
+    "title_note": "From item 18 with \"Worries\" made possessive; item 17's \"Take All That I Am - A Suscipe for Rumination\" is a good subtitle but too long for a shelf.",
+    "why": "The Suscipe already sits on Steps 3 and 11 in three records; what is new here is the last two lines, which turn it against rumination. Item 16 (the 1914 Mullan translation) is EXCLUDED by the 90% rule (93% against historic_step11_010), so this record has NO Original tab of its own: `original` is left for the desktop to fill from builtin21_09 or historic_step11_010, or the record ships single-tab with see_also. Your call.",
+    "original_title_in_file": "Prayer: I Surrender Worries to You (2026 Modern English):"
+   },
+   "id": "NEW_suscipe_for_rumination",
+   "title": "I Surrender My Worries to You",
+   "full_text": "Lord, take everything that makes me who I am:\nmy freedom, my memory, my intellect, and my will.\nYou have given all of it to me, Lord; I return it now.\nAll is Yours. Do with it what You will.\nGive me only Your love and Your steady presence.\nThat is more than enough for me,\nand I will not let other worries consume my mind\nas I walk the path You have set before me.\nThrough Christ our Lord. Amen.",
+   "short_text": null,
+   "modern": "Lord, take everything that makes me who I am:\nmy freedom, my memory, my intellect, and my will.\nYou have given all of it to me, Lord; I return it now.\nAll is Yours. Do with it what You will.\nGive me only Your love and Your steady presence.\nThat is more than enough for me,\nand I will not let other worries consume my mind\nas I walk the path You have set before me.\nThrough Christ our Lord. Amen.",
+   "original": null,
+   "original_title": null,
+   "tradition": "Catholic — Kentucky Bootleggers Adaptation (2026) of St. Ignatius of Loyola",
+   "collection": "Kentucky Bootleggers Originals",
+   "word_count": 81,
+   "note": null,
+   "categories_hint": [],
+   "categories_15_primary_hint": null,
+   "faiths": [
+    "All",
+    "Catholic",
+    "Recovery"
+   ],
+   "step_tag": "step-3",
+   "source_corpus": "circling_mind_2026",
+   "categories": [
+    "surrender",
+    "the-circling-mind",
+    "letting-go",
+    "trust-and-faith",
+    "dedication-and-service"
+   ],
+   "categorization_flagged": false,
+   "categorization_flag_reason": null,
+   "author": "St. Ignatius of Loyola",
+   "attribution": "After St. Ignatius of Loyola (1491–1556), the Suscipe. Adapted by Kentucky Bootleggers, 2026.",
+   "original_attribution": "St. Ignatius of Loyola, the Suscipe (Spiritual Exercises, 1548). The 1914 Mullan translation supplied with this batch duplicates historic_step11_010 at 93% and is not added; reuse that record's text or builtin21_09's Original tab here.",
+   "footnote": null,
+   "original_footnote": null,
+   "voice": "i",
+   "see_also": [
+    "builtin21_09",
+    "historic_step11_010",
+    "historic_step3_001"
+   ]
+  },
+  {
+   "_intake": {
+    "key": "desales_i_will_not_fear_tomorrow",
+    "source_items": [
+     20
+    ],
+    "original_from": "desales_tomorrow",
+    "provenance": "confirmed author; cited source doubtful (letters, not the Introduction)",
+    "status": "ready",
+    "text_fixes": [
+     "Footer line moved to footnote."
+    ],
+    "title_note": "Dropped \"- After St. Francis de Sales\"; the credit line carries that.",
+    "why": "Faithful first-person rendering of the \"fear not tomorrow\" passage with one added line of resolve. \"Cast every fearful possibility from my heart\" is the loop.",
+    "original_title_in_file": "I Will Not Fear Tomorrow - After St. Francis de Sales (Modern English)"
+   },
+   "id": "NEW_desales_i_will_not_fear_tomorrow",
+   "title": "I Will Not Fear Tomorrow",
+   "full_text": "Lord, I will not fear what may happen tomorrow.\nYou are the same eternal Father who cares for me today,\nand You will care for me tomorrow and every day of my life.\nEither You will keep me from suffering,\nor You will give me strength and faith to bear it.\nSo I will be at peace, and I will put away all anxious thoughts,\nand cast every fearful possibility from my heart.\nI will walk in Your ways today and all my days.\nIn Jesus name, I pray, Amen.",
+   "short_text": null,
+   "modern": "Lord, I will not fear what may happen tomorrow.\nYou are the same eternal Father who cares for me today,\nand You will care for me tomorrow and every day of my life.\nEither You will keep me from suffering,\nor You will give me strength and faith to bear it.\nSo I will be at peace, and I will put away all anxious thoughts,\nand cast every fearful possibility from my heart.\nI will walk in Your ways today and all my days.\nIn Jesus name, I pray, Amen.",
+   "original": "Fear not what may happen tomorrow; the same everlasting Father who careth for thee today will take care of thee tomorrow and every day. Either He will shield thee from suffering, or He will give thee unfailing strength to bear it. Be at peace then, and put away all anxious thoughts and unquiet imaginings from thy soul. Amen.",
+   "original_title": "Fear Not What May Happen Tomorrow",
+   "tradition": "Catholic — Kentucky Bootleggers Adaptation (2026) of St. Francis de Sales",
+   "collection": "Kentucky Bootleggers Originals",
+   "word_count": 90,
+   "note": null,
+   "categories_hint": [],
+   "categories_15_primary_hint": null,
+   "faiths": [
+    "All",
+    "Catholic",
+    "Anglican",
+    "Recovery"
+   ],
+   "step_tag": null,
+   "source_corpus": "circling_mind_2026",
+   "categories": [
+    "fear-and-worry",
+    "trust-and-faith",
+    "peace",
+    "the-circling-mind",
+    "strength-and-endurance"
+   ],
+   "categorization_flagged": false,
+   "categorization_flag_reason": null,
+   "author": "St. Francis de Sales",
+   "attribution": "After St. Francis de Sales (1567–1622). Adapted by Kentucky Bootleggers, 2026.",
+   "original_attribution": "St. Francis de Sales (1567–1622). English text as printed 1900 (credited in the source file to W. J. Knox Little, London). Public domain. PROVENANCE: the passage is genuine de Sales but comes from his letters, not the Introduction to the Devout Life; verify the citation before publishing it.",
+   "footnote": "Take one slow breath. Stand, and do the next right thing.",
+   "original_footnote": null,
+   "voice": "i",
+   "see_also": null
+  },
+  {
+   "_intake": {
+    "key": "desales_panic_loop",
+    "source_items": [
+     21
+    ],
+    "original_from": "desales_tomorrow",
+    "provenance": "confirmed author; cited source doubtful (letters, not the Introduction)",
+    "status": "ready",
+    "text_fixes": [
+     "Footer line moved to footnote.",
+     "Title case: \"To The\" -> \"to the\"."
+    ],
+    "title_note": "Kept; the only informal title in the batch and it earns it. Make sure you want \"guts\" and \"has my back\" on the same shelf as the Breviary.",
+    "why": "The informal register of the same passage; \"panic loop\" names rumination in the reader's own words. Evening & Night for \"tonight\".",
+    "original_title_in_file": "Kicking the Panic Loop To The Curb (Modern English)"
+   },
+   "id": "NEW_desales_panic_loop",
+   "title": "Kicking the Panic Loop to the Curb",
+   "full_text": "Lord, I'm going to stop stressing over what might go wrong tomorrow.\nYou're the same God who has my back tonight,\nand You're going to take care of me tomorrow and every single day after that.\nLord, I know You'll either keep the trouble away from me,\nor You'll give me the guts and resilience to handle it.\nI'm going to settle down inside now, relax,\nand kick every anxious thought and panic loop straight out of my head.\nThank You, Jesus Christ. Amen.",
+   "short_text": null,
+   "modern": "Lord, I'm going to stop stressing over what might go wrong tomorrow.\nYou're the same God who has my back tonight,\nand You're going to take care of me tomorrow and every single day after that.\nLord, I know You'll either keep the trouble away from me,\nor You'll give me the guts and resilience to handle it.\nI'm going to settle down inside now, relax,\nand kick every anxious thought and panic loop straight out of my head.\nThank You, Jesus Christ. Amen.",
+   "original": "Fear not what may happen tomorrow; the same everlasting Father who careth for thee today will take care of thee tomorrow and every day. Either He will shield thee from suffering, or He will give thee unfailing strength to bear it. Be at peace then, and put away all anxious thoughts and unquiet imaginings from thy soul. Amen.",
+   "original_title": "Fear Not What May Happen Tomorrow",
+   "tradition": "Catholic — Kentucky Bootleggers Adaptation (2026) of St. Francis de Sales",
+   "collection": "Kentucky Bootleggers Originals",
+   "word_count": 84,
+   "note": null,
+   "categories_hint": [],
+   "categories_15_primary_hint": null,
+   "faiths": [
+    "All",
+    "Catholic",
+    "Anglican",
+    "Recovery"
+   ],
+   "step_tag": null,
+   "source_corpus": "circling_mind_2026",
+   "categories": [
+    "fear-and-worry",
+    "the-circling-mind",
+    "trust-and-faith",
+    "peace",
+    "evening-and-night"
+   ],
+   "categorization_flagged": false,
+   "categorization_flag_reason": null,
+   "author": "St. Francis de Sales",
+   "attribution": "After St. Francis de Sales (1567–1622). Adapted by Kentucky Bootleggers, 2026.",
+   "original_attribution": "St. Francis de Sales (1567–1622). English text as printed 1900 (credited in the source file to W. J. Knox Little, London). Public domain. PROVENANCE: the passage is genuine de Sales but comes from his letters, not the Introduction to the Devout Life; verify the citation before publishing it.",
+   "footnote": "Take one slow breath. Stand, and do the next right thing.",
+   "original_footnote": null,
+   "voice": "i",
+   "see_also": null
+  },
+  {
+   "_intake": {
+    "key": "desales_next_right_step",
+    "source_items": [
+     23
+    ],
+    "original_from": "desales_morning",
+    "provenance": "UNVERIFIED",
+    "status": "ready",
+    "text_fixes": [
+     "Footer line moved to footnote."
+    ],
+    "title_note": "Dropped \"Prayer:\" prefix.",
+    "why": "Morning offering with the worries handed over. Provenance of the Original tab is unverified (see the log); the Modern tab can ship under the Kentucky Bootleggers credit regardless.",
+    "original_title_in_file": "Prayer: Guide Me Now to the Next Right Step (Modern English - 2026):"
+   },
+   "id": "NEW_desales_next_right_step",
+   "title": "Guide Me Now to the Next Right Step",
+   "full_text": "God, today I'm giving You all my thoughts, words and actions.\nTake away the needless worries troubling me.\nWith Your divine guidance, order all that happens to me today.\nLet my mind rest and my heart be at ease in Your will.\nI trust You to turn all that happens to Your glory and my good.\nGuide me now to the next right step on Your path.\nThrough Christ our Lord. Amen.",
+   "short_text": null,
+   "modern": "God, today I'm giving You all my thoughts, words and actions.\nTake away the needless worries troubling me.\nWith Your divine guidance, order all that happens to me today.\nLet my mind rest and my heart be at ease in Your will.\nI trust You to turn all that happens to Your glory and my good.\nGuide me now to the next right step on Your path.\nThrough Christ our Lord. Amen.",
+   "original": "O my God, I offer Thee this day all my thoughts, words, and actions. Drive far from my mind the empty anxieties that disturb me. Let Thy divine providence order everything that shall befall me this day, and let my heart rest gently in Thy holy will, knowing surely that Thou wilt permit nothing but what shall turn to my salvation and Thy glory.",
+   "original_title": "Morning Offering Against Empty Anxieties",
+   "tradition": "Catholic — Kentucky Bootleggers Adaptation (2026) of St. Francis de Sales",
+   "collection": "Kentucky Bootleggers Originals",
+   "word_count": 72,
+   "note": null,
+   "categories_hint": [],
+   "categories_15_primary_hint": null,
+   "faiths": [
+    "All",
+    "Catholic",
+    "Anglican",
+    "Recovery"
+   ],
+   "step_tag": null,
+   "source_corpus": "circling_mind_2026",
+   "categories": [
+    "morning",
+    "surrender",
+    "trust-and-faith",
+    "guidance-and-decisions",
+    "fear-and-worry"
+   ],
+   "categorization_flagged": false,
+   "categorization_flag_reason": null,
+   "author": "St. Francis de Sales",
+   "attribution": "After St. Francis de Sales (1567–1622). Adapted by Kentucky Bootleggers, 2026.",
+   "original_attribution": "Credited in the source file to St. Francis de Sales, Introduction to the Devout Life (Rivingtons, London, 1888). PROVENANCE UNVERIFIED: the French given is not seventeenth-century text and the passage could not be matched to the Introduction. Verify before crediting de Sales.",
+   "footnote": "Take one slow breath. Stand, and do the next right thing.",
+   "original_footnote": null,
+   "voice": "i",
+   "see_also": null
+  },
+  {
+   "_intake": {
+    "key": "desales_clutter_and_spin",
+    "source_items": [
+     24
+    ],
+    "original_from": "desales_morning",
+    "provenance": "UNVERIFIED",
+    "status": "ready",
+    "text_fixes": [
+     "Capitalized You/Your to match the catalog's house style (every other modern in this file capitalizes)."
+    ],
+    "title_note": "Dropped \"For\"; \"Clutter and Spin\" is a better shelf title than \"For Clutter and Spin\".",
+    "why": "\"Pointless anxieties that clutter and spin inside my head\" is the most exact description of rumination in the batch.",
+    "original_title_in_file": "For Clutter and Spin (Modern English - 2026):"
+   },
+   "id": "NEW_desales_clutter_and_spin",
+   "title": "Clutter and Spin",
+   "full_text": "God, I give You this day: everything I think, everything I say, and everything I do. Push away the pointless anxieties that clutter and spin inside my head. Take charge of whatever happens to me today, and help my heart stay calm and quiet in Your plan, knowing You will look out for me through every moment.",
+   "short_text": null,
+   "modern": "God, I give You this day: everything I think, everything I say, and everything I do. Push away the pointless anxieties that clutter and spin inside my head. Take charge of whatever happens to me today, and help my heart stay calm and quiet in Your plan, knowing You will look out for me through every moment.",
+   "original": "O my God, I offer Thee this day all my thoughts, words, and actions. Drive far from my mind the empty anxieties that disturb me. Let Thy divine providence order everything that shall befall me this day, and let my heart rest gently in Thy holy will, knowing surely that Thou wilt permit nothing but what shall turn to my salvation and Thy glory.",
+   "original_title": "Morning Offering Against Empty Anxieties",
+   "tradition": "Catholic — Kentucky Bootleggers Adaptation (2026) of St. Francis de Sales",
+   "collection": "Kentucky Bootleggers Originals",
+   "word_count": 57,
+   "note": null,
+   "categories_hint": [],
+   "categories_15_primary_hint": null,
+   "faiths": [
+    "All",
+    "Catholic",
+    "Anglican",
+    "Recovery"
+   ],
+   "step_tag": null,
+   "source_corpus": "circling_mind_2026",
+   "categories": [
+    "morning",
+    "surrender",
+    "trust-and-faith",
+    "the-circling-mind",
+    "fear-and-worry",
+    "peace"
+   ],
+   "categorization_flagged": false,
+   "categorization_flag_reason": null,
+   "author": "St. Francis de Sales",
+   "attribution": "After St. Francis de Sales (1567–1622). Adapted by Kentucky Bootleggers, 2026.",
+   "original_attribution": "Credited in the source file to St. Francis de Sales, Introduction to the Devout Life (Rivingtons, London, 1888). PROVENANCE UNVERIFIED: the French given is not seventeenth-century text and the passage could not be matched to the Introduction. Verify before crediting de Sales.",
+   "footnote": null,
+   "original_footnote": null,
+   "voice": "i",
+   "see_also": null
+  },
+  {
+   "_intake": {
+    "key": "prime_strong_shield",
+    "source_items": [
+     26
+    ],
+    "original_from": "prime",
+    "provenance": "confirmed (in catalog as tileston_prayers_0408)",
+    "status": "ready",
+    "text_fixes": [],
+    "title_note": "Kept; title case fixed (\"For\" -> \"for\").",
+    "why": "\"Take the steering wheel of my mind so my thoughts aren't spinning out in fear\" earns the shelf; \"bad habits\" earns Temptation & Craving.",
+    "original_title_in_file": "Be My Strong Shield For Today (Modern English)"
+   },
+   "id": "NEW_prime_strong_shield",
+   "title": "Be My Strong Shield for Today",
+   "full_text": "Almighty God, thank You for waking me up and getting me safely to the start of this day. Put Your strong shield around me right now. Don't let me slip into bad habits, mess up, or walk into unnecessary trouble today. Take the steering wheel of my mind so my thoughts aren't spinning out in fear, but are focused on doing what's right and useful, through Jesus Christ our Lord. Amen",
+   "short_text": null,
+   "modern": "Almighty God, thank You for waking me up and getting me safely to the start of this day. Put Your strong shield around me right now. Don't let me slip into bad habits, mess up, or walk into unnecessary trouble today. Take the steering wheel of my mind so my thoughts aren't spinning out in fear, but are focused on doing what's right and useful, through Jesus Christ our Lord. Amen",
+   "original": "O Lord God Almighty, who hast brought us to the beginning of this day: defend us in the same with Thy mighty power; that we may not this day fall into any sin, nor run into any danger; but that all our doings and all our thoughts may be directed by Thy governance to the continuous working of Thy righteousness. Through our Lord Jesus Christ, Thy Son. Amen.",
+   "original_title": "Domine Deus omnipotens (Collect at Prime)",
+   "tradition": "Catholic — Kentucky Bootleggers Adaptation (2026) of the collect at Prime",
+   "collection": "Kentucky Bootleggers Originals",
+   "word_count": 71,
+   "note": null,
+   "categories_hint": [],
+   "categories_15_primary_hint": null,
+   "faiths": [
+    "All",
+    "Catholic",
+    "Anglican",
+    "Recovery"
+   ],
+   "step_tag": null,
+   "source_corpus": "circling_mind_2026",
+   "categories": [
+    "morning",
+    "protection",
+    "the-circling-mind",
+    "fear-and-worry",
+    "temptation-and-craving",
+    "gratitude-and-thanksgiving"
+   ],
+   "categorization_flagged": false,
+   "categorization_flag_reason": null,
+   "author": "Traditional — Gelasian Sacramentary",
+   "attribution": "After the Gelasian collect at Prime (Domine Deus omnipotens). Adapted by Kentucky Bootleggers, 2026.",
+   "original_attribution": "Traditional — Gelasian Sacramentary, the collect at Prime. English translation by John, Marquess of Bute, The Roman Breviary (Edinburgh, 1879). Public domain. The same collect is already in the catalog in the Book of Common Prayer wording as tileston_prayers_0408.",
+   "footnote": null,
+   "original_footnote": null,
+   "voice": "i",
+   "see_also": [
+    "tileston_prayers_0408"
+   ]
+  },
+  {
+   "_intake": {
+    "key": "prime_starting_this_day",
+    "source_items": [
+     27
+    ],
+    "original_from": "prime",
+    "provenance": "confirmed (in catalog as tileston_prayers_0408)",
+    "status": "ready",
+    "text_fixes": [],
+    "title_note": "Kept.",
+    "why": "Plain 42-word rendering; the shortest morning collect in the batch. Not a rumination prayer.",
+    "original_title_in_file": "Starting This Day (Modern English -2026)"
+   },
+   "id": "NEW_prime_starting_this_day",
+   "title": "Starting This Day",
+   "full_text": "God, You brought me to the start of this day -\nprotect me today with Your power.\nKeep me from sin and keep me safe from danger.\nLet everything I do and think be led by You to do the right thing.",
+   "short_text": null,
+   "modern": "God, You brought me to the start of this day -\nprotect me today with Your power.\nKeep me from sin and keep me safe from danger.\nLet everything I do and think be led by You to do the right thing.",
+   "original": "O Lord God Almighty, who hast brought us to the beginning of this day: defend us in the same with Thy mighty power; that we may not this day fall into any sin, nor run into any danger; but that all our doings and all our thoughts may be directed by Thy governance to the continuous working of Thy righteousness. Through our Lord Jesus Christ, Thy Son. Amen.",
+   "original_title": "Domine Deus omnipotens (Collect at Prime)",
+   "tradition": "Catholic — Kentucky Bootleggers Adaptation (2026) of the collect at Prime",
+   "collection": "Kentucky Bootleggers Originals",
+   "word_count": 42,
+   "note": null,
+   "categories_hint": [],
+   "categories_15_primary_hint": null,
+   "faiths": [
+    "All",
+    "Catholic",
+    "Anglican",
+    "Recovery"
+   ],
+   "step_tag": null,
+   "source_corpus": "circling_mind_2026",
+   "categories": [
+    "morning",
+    "protection",
+    "guidance-and-decisions"
+   ],
+   "categorization_flagged": false,
+   "categorization_flag_reason": null,
+   "author": "Traditional — Gelasian Sacramentary",
+   "attribution": "After the Gelasian collect at Prime (Domine Deus omnipotens). Adapted by Kentucky Bootleggers, 2026.",
+   "original_attribution": "Traditional — Gelasian Sacramentary, the collect at Prime. English translation by John, Marquess of Bute, The Roman Breviary (Edinburgh, 1879). Public domain. The same collect is already in the catalog in the Book of Common Prayer wording as tileston_prayers_0408.",
+   "footnote": null,
+   "original_footnote": null,
+   "voice": "i",
+   "see_also": [
+    "tileston_prayers_0408"
+   ]
+  },
+  {
+   "_intake": {
+    "key": "ambrose_wake_me_up",
+    "source_items": [
+     29
+    ],
+    "original_from": "ambrose",
+    "provenance": "confirmed hymn; translator credit wrong (Bridges 1899, not Newman)",
+    "status": "ready",
+    "text_fixes": [],
+    "title_note": "Kept.",
+    "why": "Faithful-ish rendering of the hymn's first two stanzas. Praise because it opens by naming who God is.",
+    "original_title_in_file": "Wake Me Up From Sleep (Modern English)"
+   },
+   "id": "NEW_ambrose_wake_me_up",
+   "title": "Wake Me Up From Sleep",
+   "full_text": "Brilliant light from God's own light, You bring day into the world.\nShine on me today. Wake me up from sleep, and help me live pure.\nGuide me now to do what's right, turning my heart completely to You, Lord.",
+   "short_text": null,
+   "modern": "Brilliant light from God's own light, You bring day into the world.\nShine on me today. Wake me up from sleep, and help me live pure.\nGuide me now to do what's right, turning my heart completely to You, Lord.",
+   "original": "O Splendor of God's Glory bright,\nWho bringest forth the light from light,\nO Light of light, light's living spring,\nO Day, all days illumining.\nCome, very Sun of heavenly love,\nCome in Thy radiant glow from above,\nAnd shed the Holy Spirit's ray\nOn every thought and sense today.",
+   "original_title": "Splendor paternae gloriae (O Splendor of God's Glory Bright)",
+   "tradition": "Catholic — Kentucky Bootleggers Adaptation (2026) of St. Ambrose",
+   "collection": "Kentucky Bootleggers Originals",
+   "word_count": 40,
+   "note": null,
+   "categories_hint": [],
+   "categories_15_primary_hint": null,
+   "faiths": [
+    "All",
+    "Catholic",
+    "Anglican",
+    "Protestant",
+    "Recovery"
+   ],
+   "step_tag": null,
+   "source_corpus": "circling_mind_2026",
+   "categories": [
+    "morning",
+    "praise",
+    "guidance-and-decisions"
+   ],
+   "categorization_flagged": false,
+   "categorization_flag_reason": null,
+   "author": "St. Ambrose of Milan",
+   "attribution": "After St. Ambrose of Milan, Splendor paternae gloriae. Adapted by Kentucky Bootleggers, 2026.",
+   "original_attribution": "St. Ambrose of Milan (c. 340–397). English translation credited in the source file to John Henry Newman (1852). PROVENANCE: this English text is the Robert Bridges translation (Yattendon Hymnal, 1899), not Newman's; either way public domain. Correct the translator credit.",
+   "footnote": null,
+   "original_footnote": null,
+   "voice": "i",
+   "see_also": null
+  },
+  {
+   "_intake": {
+    "key": "ambrose_walk_in_your_light",
+    "source_items": [
+     30
+    ],
+    "original_from": "ambrose",
+    "provenance": "confirmed hymn; translator credit wrong (Bridges 1899, not Newman)",
+    "status": "ready",
+    "text_fixes": [],
+    "title_note": "Kept; title case fixed (\"To\" -> \"to\").",
+    "why": "\"Clear my head, so with a clean heart I can get up right now\" is the get-up prayer of the batch.",
+    "original_title_in_file": "Wake Me Now To Walk in Your Light (Modern English)"
+   },
+   "id": "NEW_ambrose_walk_in_your_light",
+   "title": "Wake Me Now to Walk in Your Light",
+   "full_text": "Jesus, You're the brightness of God's glory,\nlight from light.\nTrue Sun, break into this day and shine on me.\nLight up my whole body and clear my head,\nso with a clean heart I can get up right now and walk in Your light.\nGuide me to the next right step.\nThrough Christ our Lord. Amen",
+   "short_text": null,
+   "modern": "Jesus, You're the brightness of God's glory,\nlight from light.\nTrue Sun, break into this day and shine on me.\nLight up my whole body and clear my head,\nso with a clean heart I can get up right now and walk in Your light.\nGuide me to the next right step.\nThrough Christ our Lord. Amen",
+   "original": "O Splendor of God's Glory bright,\nWho bringest forth the light from light,\nO Light of light, light's living spring,\nO Day, all days illumining.\nCome, very Sun of heavenly love,\nCome in Thy radiant glow from above,\nAnd shed the Holy Spirit's ray\nOn every thought and sense today.",
+   "original_title": "Splendor paternae gloriae (O Splendor of God's Glory Bright)",
+   "tradition": "Catholic — Kentucky Bootleggers Adaptation (2026) of St. Ambrose",
+   "collection": "Kentucky Bootleggers Originals",
+   "word_count": 57,
+   "note": null,
+   "categories_hint": [],
+   "categories_15_primary_hint": null,
+   "faiths": [
+    "All",
+    "Catholic",
+    "Anglican",
+    "Protestant",
+    "Recovery"
+   ],
+   "step_tag": null,
+   "source_corpus": "circling_mind_2026",
+   "categories": [
+    "morning",
+    "praise",
+    "the-circling-mind",
+    "being-useful",
+    "guidance-and-decisions"
+   ],
+   "categorization_flagged": false,
+   "categorization_flag_reason": null,
+   "author": "St. Ambrose of Milan",
+   "attribution": "After St. Ambrose of Milan, Splendor paternae gloriae. Adapted by Kentucky Bootleggers, 2026.",
+   "original_attribution": "St. Ambrose of Milan (c. 340–397). English translation credited in the source file to John Henry Newman (1852). PROVENANCE: this English text is the Robert Bridges translation (Yattendon Hymnal, 1899), not Newman's; either way public domain. Correct the translator credit.",
+   "footnote": null,
+   "original_footnote": null,
+   "voice": "i",
+   "see_also": null
+  },
+  {
+   "_intake": {
+    "key": "anselm_thoughts_that_go_nowhere",
+    "source_items": [
+     32
+    ],
+    "original_from": "anselm",
+    "provenance": "UNVERIFIED",
+    "status": "ready",
+    "text_fixes": [
+     "Rewrote the tangled line \"Guide me now to, and give me energy now for, the next right step.\" as \"Guide me now to the next right step, and give me the energy for it.\" Original kept in the log."
+    ],
+    "title_note": "Kept.",
+    "why": "\"Thoughts that go nowhere\" is rumination in six words.",
+    "original_title_in_file": "Deliver Me From Thoughts That Go Nowhere (Modern English)"
+   },
+   "id": "NEW_anselm_thoughts_that_go_nowhere",
+   "title": "Deliver Me From Thoughts That Go Nowhere",
+   "full_text": "My God, my mercy - pull me out of pointless worries.\nDeliver me from thoughts that go nowhere. Point my feet down Your path.\nLet me make real progress today in Your work. Let my life praise Your holy name.\nGuide me now to the next right step, and give me the energy for it.\nThrough Christ our Lord. Amen.",
+   "short_text": null,
+   "modern": "My God, my mercy - pull me out of pointless worries.\nDeliver me from thoughts that go nowhere. Point my feet down Your path.\nLet me make real progress today in Your work. Let my life praise Your holy name.\nGuide me now to the next right step, and give me the energy for it.\nThrough Christ our Lord. Amen.",
+   "original": "My God, my mercy, deliver me from vain purpose and idle thoughts. Direct my steps into the way of Thy commandments, and grant me today to make progress in Thy work, that I may attain to the praise of Thy name. Amen.",
+   "original_title": "Oratio ad Matutinum (Deliver Me From Idle Thoughts)",
+   "tradition": "Catholic — Kentucky Bootleggers Adaptation (2026), credited to St. Anselm (unverified)",
+   "collection": "Kentucky Bootleggers Originals",
+   "word_count": 60,
+   "note": null,
+   "categories_hint": [],
+   "categories_15_primary_hint": null,
+   "faiths": [
+    "All",
+    "Catholic",
+    "Anglican",
+    "Recovery"
+   ],
+   "step_tag": null,
+   "source_corpus": "circling_mind_2026",
+   "categories": [
+    "the-circling-mind",
+    "fear-and-worry",
+    "guidance-and-decisions",
+    "being-useful"
+   ],
+   "categorization_flagged": false,
+   "categorization_flag_reason": null,
+   "author": "St. Anselm of Canterbury (attributed)",
+   "attribution": "After a morning prayer credited to St. Anselm of Canterbury (provenance unverified). Adapted by Kentucky Bootleggers, 2026.",
+   "original_attribution": "Credited in the source file to St. Anselm of Canterbury (1033–1109), English translation 1884. PROVENANCE UNVERIFIED: the Latin could not be matched to Anselm's Orationes. Verify before crediting Anselm; if unverifiable, credit as 'after the manner of Anselm' or as a Kentucky Bootleggers original.",
+   "footnote": null,
+   "original_footnote": null,
+   "voice": "i",
+   "see_also": null
+  },
+  {
+   "_intake": {
+    "key": "anselm_empty_goals",
+    "source_items": [
+     33
+    ],
+    "original_from": "anselm",
+    "provenance": "UNVERIFIED",
+    "status": "ready",
+    "text_fixes": [
+     "Capitalized Your/You've for house style."
+    ],
+    "title_note": "Kept.",
+    "why": "\"Lazy, scattered thoughts\" and \"make real progress today\" cover both halves of the shelf's job: stop the loop, get up.",
+    "original_title_in_file": "Rescue Me From Empty Goals (Modern English)"
+   },
+   "id": "NEW_anselm_empty_goals",
+   "title": "Rescue Me From Empty Goals",
+   "full_text": "My God and my mercy,\nrescue me from empty goals and lazy, scattered thoughts.\nPoint my feet straight down the path of Your commands,\nand give me the energy today to make real progress\nin what You've called me to do, living for Your glory.\nThrough Christ our Lord. Amen.",
+   "short_text": null,
+   "modern": "My God and my mercy,\nrescue me from empty goals and lazy, scattered thoughts.\nPoint my feet straight down the path of Your commands,\nand give me the energy today to make real progress\nin what You've called me to do, living for Your glory.\nThrough Christ our Lord. Amen.",
+   "original": "My God, my mercy, deliver me from vain purpose and idle thoughts. Direct my steps into the way of Thy commandments, and grant me today to make progress in Thy work, that I may attain to the praise of Thy name. Amen.",
+   "original_title": "Oratio ad Matutinum (Deliver Me From Idle Thoughts)",
+   "tradition": "Catholic — Kentucky Bootleggers Adaptation (2026), credited to St. Anselm (unverified)",
+   "collection": "Kentucky Bootleggers Originals",
+   "word_count": 50,
+   "note": null,
+   "categories_hint": [],
+   "categories_15_primary_hint": null,
+   "faiths": [
+    "All",
+    "Catholic",
+    "Anglican",
+    "Recovery"
+   ],
+   "step_tag": null,
+   "source_corpus": "circling_mind_2026",
+   "categories": [
+    "the-circling-mind",
+    "guidance-and-decisions",
+    "being-useful",
+    "dedication-and-service"
+   ],
+   "categorization_flagged": false,
+   "categorization_flag_reason": null,
+   "author": "St. Anselm of Canterbury (attributed)",
+   "attribution": "After a morning prayer credited to St. Anselm of Canterbury (provenance unverified). Adapted by Kentucky Bootleggers, 2026.",
+   "original_attribution": "Credited in the source file to St. Anselm of Canterbury (1033–1109), English translation 1884. PROVENANCE UNVERIFIED: the Latin could not be matched to Anselm's Orationes. Verify before crediting Anselm; if unverifiable, credit as 'after the manner of Anselm' or as a Kentucky Bootleggers original.",
+   "footnote": null,
+   "original_footnote": null,
+   "voice": "i",
+   "see_also": null
+  },
+  {
+   "_intake": {
+    "key": "southwell_i_give_you_this_day",
+    "source_items": [
+     35,
+     36
+    ],
+    "original_from": "southwell",
+    "provenance": "UNVERIFIED",
+    "status": "MERGE PENDING — Paul to approve the merged text",
+    "text_fixes": [
+     "Items 35 (\"Let's Get To Work\") and 36 (\"I Give You This Day\") are one prayer twice (59% overlap, identical intent and structure). Proposed merge: 36's line structure, 35's \"waste today\" idea and closing \"Let's get to work.\" Both source texts are in the log."
+    ],
+    "title_note": "\"I Give You This Day\" over \"Let's Get To Work\": the latter reads as a slogan on a shelf; it survives as the closing line.",
+    "why": "The plainest offering-of-the-day in the batch. Not a rumination prayer.",
+    "original_title_in_file": "I Give You This Day (Modern English)"
+   },
+   "id": "NEW_southwell_i_give_you_this_day",
+   "title": "I Give You This Day",
+   "full_text": "Jesus Christ, source of everything good,\nthank You for bringing me safely through the night.\nI give You this day, everything I do.\nGuide my hands, guard my mouth, and rule my heart,\nso I don't waste today on anything against Your will.\nGuide me now to the next right step.\nLet's get to work. Amen.",
+   "short_text": null,
+   "modern": "Jesus Christ, source of everything good,\nthank You for bringing me safely through the night.\nI give You this day, everything I do.\nGuide my hands, guard my mouth, and rule my heart,\nso I don't waste today on anything against Your will.\nGuide me now to the next right step.\nLet's get to work. Amen.",
+   "original": "The author and foundation of all perfection, Jesus Christ, I yield Thee hearty thanks that Thou hast preserved me this night. I offer unto Thee all the actions of this day, beseeching Thee to guide my hands, govern my tongue, and rule my heart, that I may do nothing contrary to Thy holy will. Amen.",
+   "original_title": "Morning Resolution and Offering of the Day",
+   "tradition": "Catholic — Kentucky Bootleggers Adaptation (2026), credited to St. Robert Southwell (unverified)",
+   "collection": "Kentucky Bootleggers Originals",
+   "word_count": 56,
+   "note": null,
+   "categories_hint": [],
+   "categories_15_primary_hint": null,
+   "faiths": [
+    "All",
+    "Catholic",
+    "Recovery"
+   ],
+   "step_tag": null,
+   "source_corpus": "circling_mind_2026",
+   "categories": [
+    "morning",
+    "gratitude-and-thanksgiving",
+    "dedication-and-service",
+    "being-useful",
+    "guidance-and-decisions"
+   ],
+   "categorization_flagged": false,
+   "categorization_flag_reason": null,
+   "author": "St. Robert Southwell (attributed)",
+   "attribution": "After a morning offering credited to St. Robert Southwell, S.J. (provenance unverified). Adapted by Kentucky Bootleggers, 2026.",
+   "original_attribution": "Credited in the source file to St. Robert Southwell, S.J. (1561–1595), modernized 1895. PROVENANCE UNVERIFIED. Verify before crediting Southwell.",
+   "footnote": null,
+   "original_footnote": null,
+   "voice": "i",
+   "see_also": null
+  },
+  {
+   "_intake": {
+    "key": "newman_until_my_work_is_done",
+    "source_items": [
+     38
+    ],
+    "original_from": "newman",
+    "provenance": "confirmed (in catalog as historic_step12_025)",
+    "status": "ready",
+    "text_fixes": [
+     "Item was labelled \"Original English - 19th Century\" but is a modern rendering (\"the busy world goes quiet, the fever of life breaks\"); treated as Modern."
+    ],
+    "title_note": "Kept.",
+    "why": "The plain-spoken Newman. Item 37, the \"me\" version of the historic text, is NOT added as a record (see the log); the Original tab here is the true historic \"us\" wording.",
+    "original_title_in_file": "Until My Work Is Done (Original English - 19th Century)"
+   },
+   "id": "NEW_newman_until_my_work_is_done",
+   "title": "Until My Work Is Done",
+   "full_text": "Lord, stay with me all day long in this hard life, until the shadows get long and evening comes, the busy world goes quiet, the fever of life breaks, and my work is done.\nThen in Your mercy give me a safe place to stay, holy rest, and peace at the end.\nThrough Jesus Christ our Lord. Amen.",
+   "short_text": null,
+   "modern": "Lord, stay with me all day long in this hard life, until the shadows get long and evening comes, the busy world goes quiet, the fever of life breaks, and my work is done.\nThen in Your mercy give me a safe place to stay, holy rest, and peace at the end.\nThrough Jesus Christ our Lord. Amen.",
+   "original": "O Lord, support us all the day long of this troublous life, until the shadows lengthen and the evening comes, and the busy world is hushed, and the fever of life is over, and our work is done. Then, Lord, in thy mercy grant us a safe lodging, and a holy rest, and peace at the last. Amen.",
+   "original_title": "Support Us, O Lord, All the Day Long",
+   "tradition": "Catholic — Kentucky Bootleggers Adaptation (2026) of John Henry Newman",
+   "collection": "Kentucky Bootleggers Originals",
+   "word_count": 58,
+   "note": null,
+   "categories_hint": [],
+   "categories_15_primary_hint": null,
+   "faiths": [
+    "All",
+    "Catholic",
+    "Anglican",
+    "Recovery"
+   ],
+   "step_tag": null,
+   "source_corpus": "circling_mind_2026",
+   "categories": [
+    "evening-and-night",
+    "strength-and-endurance",
+    "peace",
+    "presence",
+    "comfort"
+   ],
+   "categorization_flagged": false,
+   "categorization_flag_reason": null,
+   "author": "John Henry Newman",
+   "attribution": "After John Henry Newman (1801–1890), 'O Lord, support us all the day long'. Adapted by Kentucky Bootleggers, 2026.",
+   "original_attribution": "John Henry Newman (1801–1890), from the sermon 'Wisdom and Innocence' (1843). Public domain. Already in the catalog in 'us' voice as historic_step12_025; the source file's item 37 is that text with pronouns changed to 'me' and is not added as a new record.",
+   "footnote": null,
+   "original_footnote": null,
+   "voice": "i",
+   "see_also": [
+    "historic_step12_025"
+   ]
+  },
+  {
+   "_intake": {
+    "key": "newman_stand_by_me",
+    "source_items": [
+     39
+    ],
+    "original_from": "newman",
+    "provenance": "confirmed (in catalog as historic_step12_025)",
+    "status": "ready",
+    "text_fixes": [
+     "\"grant us safe rest\" -> \"grant me safe rest\" (voice was mixed)",
+     "\"in your care\" -> \"in Your care\""
+    ],
+    "title_note": "Dropped \"- Evening Rest\"; the Evening & Night shelf says it.",
+    "why": "The \"hustle and stress\" rendering; distinct from item 38 (34% overlap).",
+    "original_title_in_file": "Stand By Me, Lord - Evening Rest (Modern English)"
+   },
+   "id": "NEW_newman_stand_by_me",
+   "title": "Stand By Me, Lord",
+   "full_text": "Stand by me, Lord, through all the hustle and stress of today,\n right up until evening comes, the noise stops, and my daily work is finished.\n When night falls, grant me safe rest and deep peace in Your care,\n through Jesus Christ our Lord. Amen.",
+   "short_text": null,
+   "modern": "Stand by me, Lord, through all the hustle and stress of today,\n right up until evening comes, the noise stops, and my daily work is finished.\n When night falls, grant me safe rest and deep peace in Your care,\n through Jesus Christ our Lord. Amen.",
+   "original": "O Lord, support us all the day long of this troublous life, until the shadows lengthen and the evening comes, and the busy world is hushed, and the fever of life is over, and our work is done. Then, Lord, in thy mercy grant us a safe lodging, and a holy rest, and peace at the last. Amen.",
+   "original_title": "Support Us, O Lord, All the Day Long",
+   "tradition": "Catholic — Kentucky Bootleggers Adaptation (2026) of John Henry Newman",
+   "collection": "Kentucky Bootleggers Originals",
+   "word_count": 45,
+   "note": null,
+   "categories_hint": [],
+   "categories_15_primary_hint": null,
+   "faiths": [
+    "All",
+    "Catholic",
+    "Anglican",
+    "Recovery"
+   ],
+   "step_tag": null,
+   "source_corpus": "circling_mind_2026",
+   "categories": [
+    "evening-and-night",
+    "strength-and-endurance",
+    "peace",
+    "presence"
+   ],
+   "categorization_flagged": false,
+   "categorization_flag_reason": null,
+   "author": "John Henry Newman",
+   "attribution": "After John Henry Newman (1801–1890), 'O Lord, support us all the day long'. Adapted by Kentucky Bootleggers, 2026.",
+   "original_attribution": "John Henry Newman (1801–1890), from the sermon 'Wisdom and Innocence' (1843). Public domain. Already in the catalog in 'us' voice as historic_step12_025; the source file's item 37 is that text with pronouns changed to 'me' and is not added as a new record.",
+   "footnote": null,
+   "original_footnote": null,
+   "voice": "i",
+   "see_also": [
+    "historic_step12_025"
+   ]
+  },
+  {
+   "_intake": {
+    "key": "stirup_give_me_eagerness",
+    "source_items": [
+     41
+    ],
+    "original_from": "gelasian_stirup",
+    "provenance": "confirmed collect (fellowship_prayers_0118); Bernard credit wrong; added sentence unsourced",
+    "status": "ready",
+    "text_fixes": [],
+    "title_note": "Kept.",
+    "why": "The added \"eagerness in good works, strength against temptation\" petition is the get-up content; the collect itself is already in the catalog. Author corrected from St. Bernard to the Gelasian Sacramentary (see the log).",
+    "original_title_in_file": "Give Me Eagerness Today (Modern English)"
+   },
+   "id": "NEW_stirup_give_me_eagerness",
+   "title": "Give Me Eagerness Today",
+   "full_text": "Lord, fire up my heart to get ready for Jesus to come;\nmake my mind clear so I can serve You right.\nGive me eagerness today to do good work, and\nstrength and energy to push through every temptation.\nAmen",
+   "short_text": null,
+   "modern": "Lord, fire up my heart to get ready for Jesus to come;\nmake my mind clear so I can serve You right.\nGive me eagerness today to do good work, and\nstrength and energy to push through every temptation.\nAmen",
+   "original": "Stir up, we beseech Thee, O Lord, our hearts to prepare the ways of thine only begotten Son; that by his advent we may be enabled to serve Thee with purified minds; through the same Jesus Christ, our Lord. Amen.",
+   "original_title": "Excita, Domine (Stir Up, We Beseech Thee, O Lord, Our Hearts)",
+   "tradition": "Catholic — Kentucky Bootleggers Adaptation (2026) of the Gelasian Advent collect",
+   "collection": "Kentucky Bootleggers Originals",
+   "word_count": 40,
+   "note": null,
+   "categories_hint": [],
+   "categories_15_primary_hint": null,
+   "faiths": [
+    "All",
+    "Catholic",
+    "Anglican",
+    "Protestant",
+    "Recovery"
+   ],
+   "step_tag": null,
+   "source_corpus": "circling_mind_2026",
+   "categories": [
+    "morning",
+    "being-useful",
+    "temptation-and-craving",
+    "wisdom-and-clarity"
+   ],
+   "categorization_flagged": false,
+   "categorization_flag_reason": null,
+   "author": "Traditional — Gelasian Sacramentary",
+   "attribution": "After the Gelasian Advent collect (Excita, Domine), with an added petition. Adapted by Kentucky Bootleggers, 2026.",
+   "original_attribution": "Traditional — Gelasian Sacramentary, the Advent collect; already in the catalog as fellowship_prayers_0118. PROVENANCE: the source file credits this to St. Bernard of Clairvaux with an added sentence ('Grant us this day eagerness in good works, and strength against all temptations') that has no known source. The Original tab carries only the collect; the added sentence lives in the Modern tab under the Kentucky Bootleggers credit.",
+   "footnote": null,
+   "original_footnote": null,
+   "voice": "i",
+   "see_also": [
+    "fellowship_prayers_0118"
+   ]
+  },
+  {
+   "_intake": {
+    "key": "stirup_make_today_count",
+    "source_items": [
+     42
+    ],
+    "original_from": "gelasian_stirup",
+    "provenance": "confirmed collect (fellowship_prayers_0118); Bernard credit wrong; added sentence unsourced",
+    "status": "ready",
+    "text_fixes": [],
+    "title_note": "Kept.",
+    "why": "Informal register of the same; \"brave enough\" adds Courage.",
+    "original_title_in_file": "Let's Make Today Count (Modern English)"
+   },
+   "id": "NEW_stirup_make_today_count",
+   "title": "Let's Make Today Count",
+   "full_text": "Stir up my heart, Lord, to get ready for what You want me to do today.\nPurify my mind, give me genuine excitement and energy for good work.\nMake me strong enough and brave enough to beat every temptation.\nLet's make today count. In Jesus name, Amen.",
+   "short_text": null,
+   "modern": "Stir up my heart, Lord, to get ready for what You want me to do today.\nPurify my mind, give me genuine excitement and energy for good work.\nMake me strong enough and brave enough to beat every temptation.\nLet's make today count. In Jesus name, Amen.",
+   "original": "Stir up, we beseech Thee, O Lord, our hearts to prepare the ways of thine only begotten Son; that by his advent we may be enabled to serve Thee with purified minds; through the same Jesus Christ, our Lord. Amen.",
+   "original_title": "Excita, Domine (Stir Up, We Beseech Thee, O Lord, Our Hearts)",
+   "tradition": "Catholic — Kentucky Bootleggers Adaptation (2026) of the Gelasian Advent collect",
+   "collection": "Kentucky Bootleggers Originals",
+   "word_count": 47,
+   "note": null,
+   "categories_hint": [],
+   "categories_15_primary_hint": null,
+   "faiths": [
+    "All",
+    "Catholic",
+    "Anglican",
+    "Protestant",
+    "Recovery"
+   ],
+   "step_tag": null,
+   "source_corpus": "circling_mind_2026",
+   "categories": [
+    "morning",
+    "being-useful",
+    "temptation-and-craving",
+    "courage",
+    "wisdom-and-clarity"
+   ],
+   "categorization_flagged": false,
+   "categorization_flag_reason": null,
+   "author": "Traditional — Gelasian Sacramentary",
+   "attribution": "After the Gelasian Advent collect (Excita, Domine), with an added petition. Adapted by Kentucky Bootleggers, 2026.",
+   "original_attribution": "Traditional — Gelasian Sacramentary, the Advent collect; already in the catalog as fellowship_prayers_0118. PROVENANCE: the source file credits this to St. Bernard of Clairvaux with an added sentence ('Grant us this day eagerness in good works, and strength against all temptations') that has no known source. The Original tab carries only the collect; the added sentence lives in the Modern tab under the Kentucky Bootleggers credit.",
+   "footnote": null,
+   "original_footnote": null,
+   "voice": "i",
+   "see_also": [
+    "fellowship_prayers_0118"
+   ]
+  },
+  {
+   "_intake": {
+    "key": "coptic_light_up_my_heart",
+    "source_items": [
+     45
+    ],
+    "original_from": "coptic",
+    "provenance": "UNVERIFIED",
+    "status": "ready",
+    "text_fixes": [
+     "\"Jesus, our God, You showed me\" -> \"Jesus, my God, You showed me\" (voice was mixed)"
+    ],
+    "title_note": "Kept.",
+    "why": "30 words; the shortest morning prayer in the batch. Item 44 (the same 1911 translation with pronouns modernized, same title) is dropped as having no content of its own.",
+    "original_title_in_file": "Light Up My Heart (Modern English)"
+   },
+   "id": "NEW_coptic_light_up_my_heart",
+   "title": "Light Up My Heart",
+   "full_text": "Jesus, my God, You showed me Your true light.\nLight up my heart and soul with Your light.\nTeach me to walk straight on Your path all day long.\nAmen.",
+   "short_text": null,
+   "modern": "Jesus, my God, You showed me Your true light.\nLight up my heart and soul with Your light.\nTeach me to walk straight on Your path all day long.\nAmen.",
+   "original": "O Lord Jesus Christ our God, who hast revealed unto us Thy true light, enkindle our hearts and souls with Thy divine illumination, and teach us to walk steadfastly in the path of Thy commandments throughout this day. Amen.",
+   "original_title": "Morning Prayer of the Third Hour (Agpeya)",
+   "tradition": "Oriental Orthodox — Kentucky Bootleggers Adaptation (2026), credited to the Coptic Agpeya (unverified)",
+   "collection": "Kentucky Bootleggers Originals",
+   "word_count": 30,
+   "note": null,
+   "categories_hint": [],
+   "categories_15_primary_hint": null,
+   "faiths": [
+    "All",
+    "Oriental Orthodox",
+    "Recovery"
+   ],
+   "step_tag": null,
+   "source_corpus": "circling_mind_2026",
+   "categories": [
+    "morning",
+    "guidance-and-decisions",
+    "wisdom-and-clarity"
+   ],
+   "categorization_flagged": false,
+   "categorization_flag_reason": null,
+   "author": "Traditional — Coptic Agpeya (attributed)",
+   "attribution": "After a morning prayer credited to the Coptic Agpeya, Third Hour (provenance unverified). Adapted by Kentucky Bootleggers, 2026.",
+   "original_attribution": "Credited in the source file to the Coptic Agpeya, Third Hour, English translation 1911 (Marcus Simaika Pasha). PROVENANCE UNVERIFIED: the text could not be matched to the Agpeya and Simaika is not a known translator of it. Verify before crediting the Coptic tradition.",
+   "footnote": null,
+   "original_footnote": null,
+   "voice": "i",
+   "see_also": null
+  },
+  {
+   "_intake": {
+    "key": "coptic_one_true_light",
+    "source_items": [
+     46
+    ],
+    "original_from": "coptic",
+    "provenance": "UNVERIFIED",
+    "status": "ready",
+    "text_fixes": [
+     "\"walk straight the path\" -> \"walk straight down the path\" (missing word)"
+    ],
+    "title_note": "Kept.",
+    "why": "\"Set my heart and mind on fire with Your presence this morning\" is Presence and Morning.",
+    "original_title_in_file": "The One True Light (Modern English)"
+   },
+   "id": "NEW_coptic_one_true_light",
+   "title": "The One True Light",
+   "full_text": "Lord Jesus Christ, You are the one true light.\nSet my heart and mind on fire with Your presence this morning.\nGuide my steps so I walk straight down the path of\nYour commands today without hesitation.\nAmen.",
+   "short_text": null,
+   "modern": "Lord Jesus Christ, You are the one true light.\nSet my heart and mind on fire with Your presence this morning.\nGuide my steps so I walk straight down the path of\nYour commands today without hesitation.\nAmen.",
+   "original": "O Lord Jesus Christ our God, who hast revealed unto us Thy true light, enkindle our hearts and souls with Thy divine illumination, and teach us to walk steadfastly in the path of Thy commandments throughout this day. Amen.",
+   "original_title": "Morning Prayer of the Third Hour (Agpeya)",
+   "tradition": "Oriental Orthodox — Kentucky Bootleggers Adaptation (2026), credited to the Coptic Agpeya (unverified)",
+   "collection": "Kentucky Bootleggers Originals",
+   "word_count": 38,
+   "note": null,
+   "categories_hint": [],
+   "categories_15_primary_hint": null,
+   "faiths": [
+    "All",
+    "Oriental Orthodox",
+    "Recovery"
+   ],
+   "step_tag": null,
+   "source_corpus": "circling_mind_2026",
+   "categories": [
+    "morning",
+    "guidance-and-decisions",
+    "presence"
+   ],
+   "categorization_flagged": false,
+   "categorization_flag_reason": null,
+   "author": "Traditional — Coptic Agpeya (attributed)",
+   "attribution": "After a morning prayer credited to the Coptic Agpeya, Third Hour (provenance unverified). Adapted by Kentucky Bootleggers, 2026.",
+   "original_attribution": "Credited in the source file to the Coptic Agpeya, Third Hour, English translation 1911 (Marcus Simaika Pasha). PROVENANCE UNVERIFIED: the text could not be matched to the Agpeya and Simaika is not a known translator of it. Verify before crediting the Coptic tradition.",
+   "footnote": null,
+   "original_footnote": null,
+   "voice": "i",
+   "see_also": null
+  },
+  {
+   "_intake": {
+    "key": "armenian_morning_till_night",
+    "source_items": [
+     49
+    ],
+    "original_from": "armenian",
+    "provenance": "DOUBTFUL",
+    "status": "ready",
+    "text_fixes": [
+     "Title: \"til\" -> \"Till\""
+    ],
+    "title_note": "Spelling fixed; otherwise kept.",
+    "why": "Item 48 (the 1901 translation with pronouns modernized plus \"In the name of Jesus, I pray\") is dropped as having no content of its own beyond the Original tab; this is the one genuinely modern rendering.",
+    "original_title_in_file": "From Morning til Night (Modern English)"
+   },
+   "id": "NEW_armenian_morning_till_night",
+   "title": "From Morning Till Night",
+   "full_text": "Christ, I trust in You and bow before You.\nYou are maker of the morning light and the whole world.\nPoint my feet directly toward good work today.\nGive me the strength to live out Your will from morning till night.\nAmen.",
+   "short_text": null,
+   "modern": "Christ, I trust in You and bow before You.\nYou are maker of the morning light and the whole world.\nPoint my feet directly toward good work today.\nGive me the strength to live out Your will from morning till night.\nAmen.",
+   "original": "With faith I confess Thee and bow down before Thee,\nO Christ, who hast given the morning light and created the universe.\nDirect my footsteps into good works, and\nmake me worthy to do Thy will upon this day. Amen.",
+   "original_title": "Morning Prayer of Faith and Action (after Nerses Shnorhali)",
+   "tradition": "Armenian Apostolic — Kentucky Bootleggers Adaptation (2026), credited to Nerses Shnorhali (unverified)",
+   "collection": "Kentucky Bootleggers Originals",
+   "word_count": 42,
+   "note": null,
+   "categories_hint": [],
+   "categories_15_primary_hint": null,
+   "faiths": [
+    "All",
+    "Armenian Apostolic",
+    "Oriental Orthodox",
+    "Recovery"
+   ],
+   "step_tag": null,
+   "source_corpus": "circling_mind_2026",
+   "categories": [
+    "morning",
+    "being-useful",
+    "dedication-and-service",
+    "trust-and-faith"
+   ],
+   "categorization_flagged": false,
+   "categorization_flag_reason": null,
+   "author": "St. Nerses Shnorhali (attributed)",
+   "attribution": "After a morning prayer credited to St. Nerses Shnorhali (provenance doubtful). Adapted by Kentucky Bootleggers, 2026.",
+   "original_attribution": "Credited in the source file to St. Nerses IV Shnorhali (1102–1173), English translation by J. Issaverdens (1901). PROVENANCE DOUBTFUL: the text does not match the known verses of Shnorhali's 'I Confess with Faith'. Verify before crediting Nerses.",
+   "footnote": null,
+   "original_footnote": null,
+   "voice": "i",
+   "see_also": null
+  }
+ ]
+}
