@@ -4,22 +4,22 @@
   "sets": [
     {
       "id": "prayers",
-      "version": 1,
+      "version": 2,
       "app_versions": [
         9
       ],
       "title": "Prayers",
-      "summary": "Shelf and source names tidied; 17 prayers whose sources could not be confirmed removed, and two genuine originals added.",
+      "summary": "Each prayer now names the faith it came from; source names tidied.",
       "files": [
         {
           "asset": "prayers/prayers_catalog_v1.json",
-          "url": "sets/prayers/1/prayers/prayers_catalog_v1.json",
-          "bytes": 5084641,
-          "sha256": "c7566dbdd46d3d8955b66719d45ca4d49fe2707a4c2bf322f22e9e5e954c2477"
+          "url": "sets/prayers/2/prayers/prayers_catalog_v1.json",
+          "bytes": 5630385,
+          "sha256": "fcac7561aeefcb17df161419ca8a01224d8ef13e0b34013abe08939bb9ab6664"
         },
         {
           "asset": "prayers/station_prayers.json",
-          "url": "sets/prayers/1/prayers/station_prayers.json",
+          "url": "sets/prayers/2/prayers/station_prayers.json",
           "bytes": 201922,
           "sha256": "6a39d63e01deb676e9d21491736dec4a92af3656cc84c899579f55bd68a3e9d2"
         }
